@@ -1,11 +1,9 @@
-Diese Sendung wird ermöglicht durch GNU Software. -- Aufnahme 113
+++ GNU FUNZT -- Aufnahme 113
+Diese Sendung wird ermöglicht durch GNU Software.
+
 
 ++ INTRO -- Aufnahme 112
-Ist Wayland der nächste Xserver oder müssen wir X11 noch ein bisschen länger ertragen? 
-
-Schaltet ein und findets 'raus; ob mich die LEDs im Studio erblinden lassen.
-
-PLUS: Unsere Meinung zu Gnome 3.6 und wie du es unter Arch Linux installieren kannst.
+Ist Wayland der nächste Xserver oder müssen wir X11 noch ein bisschen länger ertragen? Schaltet ein und findets 'raus; ob mich die LEDs im Studio erblinden lassen. PLUS: Unsere Meinung zu Gnome 3.6 und wie du es unter Arch Linux installieren kannst.
 
 Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 
@@ -14,8 +12,10 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 Willkommen zur ersten Staffel und ersten Folge von "GNU funzt". Mein Name ist Andre und der Nerd neben mir ist ... noch nicht da! ^^ 
 
 
-++ STRUKTUR ++
- - Inhalt; gegenseitige Vorstellung, was man denn so an Neuigkeiten mitbgebracht hat
+++ INHALT -- 
+gegenseitige Vorstellung, was man denn so an Neuigkeiten mitbgebracht hat und was diese Sendung gereviewt wird
+// TODO: sammeln
+
  - Die GNU-App des Monats
    Gramps (mit Linux-Distros)
 
@@ -23,17 +23,24 @@ Willkommen zur ersten Staffel und ersten Folge von "GNU funzt". Mein Name ist An
 
  - GPLed Android-App des Monats (FDroid)
 
- - News des Monats (Quellen: phoronix, heise, )
-    - Fedora 18 aufs nächste Jahr verschoben; Sphärische Kuh (FC 18 "spherical cow")
-      http://www.linux-magazin.de/NEWS/Fedora-18-auf-2013-verschoben
-      http://www.heise.de/open/meldung/Fedora-18-auf-Januar-verschoben-1746176.html
-      http://qa.fedoraproject.org/blockerbugs/milestone/18/beta/buglist
-      https://plus.google.com/112917221531140868607/posts/3CMYkUfC5j8 
+
+++ NEUIGKEITEN, NACHRICHTEN --
+Neuigkeiten des Monats (Quellen: phoronix, heise, )
+// TODO: sammeln
+
+ - Fedora 18 aufs nächste Jahr verschoben; Sphärische Kuh (FC 18 "spherical cow")
+   http://www.linux-magazin.de/NEWS/Fedora-18-auf-2013-verschoben
+   http://www.heise.de/open/meldung/Fedora-18-auf-Januar-verschoben-1746176.html
+   http://qa.fedoraproject.org/blockerbugs/milestone/18/beta/buglist
+   https://plus.google.com/112917221531140868607/posts/3CMYkUfC5j8 
    
- - Review
-   Slackware (Paketmanager, Was unterscheidet Slackware von den anderen)
 
- - Feedback und danke fürs Ansehen
+++ REVIEW --
+// TODO: VM vorbereiten
+
+ - Slackware (Paketmanager, Was unterscheidet Slackware von den anderen)
 
 
+++ FEEDBACK UND SCHLUSS -- 
+// TODO: Text für "Danke fürs Ansehen" überlegen oder aus dem Stegreif?
 
