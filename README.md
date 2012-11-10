@@ -1,4 +1,5 @@
 gnufunzt
 ========
 
-Scripte zur monatlichen Sendung "GNU funzt!"
+Scripte zur monatlichen Sendung "GNU funzt!" (GPLv3)
+
