@@ -34,6 +34,30 @@ Neuigkeiten des Monats (Quellen: phoronix, heise, )
    http://qa.fedoraproject.org/blockerbugs/milestone/18/beta/buglist
    https://plus.google.com/112917221531140868607/posts/3CMYkUfC5j8 
    
+ - Nvidia: Open Source Treiber besser als Closed Source? Nicht ganz, nur wenn die Grafikkarte runtergetaktet ist. Fazit: neuere Nvidia-Karten laufen mit dem proprietären Treiber schneller und stabiler. Wer sowas altes hat wie ich, kann auch schön 
+ beim Nouveau-Treiber bleiben. Bessere Speichertaktung erst ab Linux 3.8
+   http://www.phoronix.com/scan.php?page=article&item=nvidia_nouveau_clocks&num=1
+ - neuer proprietärer Treiber R310 besser für Spiele:
+   http://www.heise.de/open/meldung/Nvidia-Neuer-Linux-Treiber-fuer-mehr-Leistung-beim-Spielen-1745377.html
+   
+ - Wayland
+   http://www.phoronix.com/scan.php?page=news_item&px=MTIyMzE
+   
+ - Fedora 19: unser Tipp für den nächsten Codenamen
+   http://www.phoronix.com/scan.php?page=news_item&px=MTIyNDQ (Vorschläge)
+   
+ - Enlightment 17 ab 21. Dezember (die Alpha wurde bereits am 10. November veröffentlicht)
+   http://www.phoronix.com/scan.php?page=news_item&px=MTIyNTQ
+   http://www.heise.de/open/meldung/Erste-Alphaversion-von-Enlightenment-E17-1744556.html (mit Bildschirmfotos)
+   // TODO: Debatte: interessiert uns E17 überhaupt? BSD-Lizenz statt GPL.
+   
+ - Stallmans Lösung für das Softwarepartent-Desaster
+   http://www.heise.de/open/meldung/Stallman-schlaegt-Ausweg-aus-dem-Softwarepatent-Desaster-vor-1742814.html
+   // TODO: finden wir hier genug Material um das kurz in der Sendung anzudiskutieren?
+   
+ - Gewährleistung für gerootete Smartphones: EU-Recht ist entsprechend auslegbar, wie es die FSFE festgestellt hat, wenn keine BEschädigung durch das Rooten aufgetreten ist.
+   http://www.heise.de/open/meldung/FSFE-Pflicht-zur-Gewaehrleistung-auch-bei-gerooteten-Smartphones-1743273.html
+   
 
 ++ REVIEW --
 // TODO: VM vorbereiten
