@@ -1,31 +1,46 @@
 ++ GNU FUNZT -- Aufnahme 113
+== Animation: Stern-Karusell
 Diese Sendung wird ermöglicht durch GNU Software.
+
+-- Aufnahme 
+Paul: Wir sind ja alte Linux Action Show Fans
+André: Gefällt uns nicht mehr so ganz! Das ganze GPL-Zeugs fehlt
+Paul: Deswegen haben wir das mal geforkt.
 
 
 ++ INTRO -- Aufnahme 112
 Ist Wayland der nächste Xserver oder müssen wir X11 noch ein bisschen länger ertragen? Schaltet ein und findets raus; ob mich die LEDs im Studio erblinden lassen. PLUS: Unsere Meinung zu Gnome 3.6 und wie du es unter Arch Linux installieren kannst.
+	// TODO  zum Schluss neu einsprechen und an die tatsächlichen Nachrichten anpassen.
 
 Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 
+== Bumper: Intro
 
 ++ WILLKOMMEN -- Aufnahme 114
-Willkommen zur ersten Staffel und ersten Folge von "GNU funzt". Mein Name ist Andre und der Nerd neben mir ist ... noch nicht da! ^^ 
+Willkommen zur ersten Staffel und ersten Folge von "GNU funzt". Mein Name ist Andre und der Nerd neben mir ist Paul.
+ - vielleicht nochmal übers Forken sprechen; was ist das eigentlich?
 
 
-++ INHALT -- 
-gegenseitige Vorstellung, was man denn so an Neuigkeiten mitbgebracht hat und was diese Sendung gereviewt wird
-// TODO: sammeln
+++ INHALT -- Aufnahme
+gegenseitige Vorstellung, was man denn so an Neuigkeiten (unser Inhaltverzeichnis) mitbgebracht hat und was diese Sendung gereviewt wird.
+ - Paul: dann darauf zu sprechen kommen, warum sich denn gerade die Bildschirmfarbe ändert
+ - André: darauf reagieren und somit die GNU-App des Monats; nämlich redshift.
 
- - Die GNU-App des Monats
-   Gramps (mit Linux-Distros)
-   redshift -> nächste Sendung
+ - Die Desktopanwendung des Monats
+   redshift 
+   Gramps (mit Linux-Distros) // nächste Sendung
+   
 
  - Distrobution des Monats (zu Beginn die echten GNU-Distros; ansonsten keine, wenn eine Distro gereviewt wird)
+   http://www.blagblagblag.org/
 
- - GPLed Android-App des Monats (FDroid)
+ - GNUtiful Android-App des Monats (aus FDroid)
+   yaxim
+   // TODO  versuchen es mit ADB-debug hinzubekommen
 
 
 ++ NEUIGKEITEN, NACHRICHTEN --
+== Bumper: GNUws!
 Neuigkeiten des Monats (Quellen: phoronix, heise, )
 // TODO: sammeln
 
@@ -44,8 +59,9 @@ Neuigkeiten des Monats (Quellen: phoronix, heise, )
  - Wayland
    http://www.phoronix.com/scan.php?page=news_item&px=MTIyMzE
    
- - Fedora 19: unser Tipp für den nächsten Codenamen
+ - Fedora 20: unser Tipp für den nächsten Codenamen
    http://www.phoronix.com/scan.php?page=news_item&px=MTIyNDQ (Vorschläge)
+   	// TODO  Artikel zum neuen Codenamen von Fedora 19 raussuchen
    
  - Enlightment 17 ab 21. Dezember (die Alpha wurde bereits am 10. November veröffentlicht)
    http://www.phoronix.com/scan.php?page=news_item&px=MTIyNTQ
@@ -67,13 +83,29 @@ Neuigkeiten des Monats (Quellen: phoronix, heise, )
    
 
 ++ REVIEW --
-// TODO: VM vorbereiten
+// TODO: VM vorbereiten (André)
 
  - Slackware (Paketmanager, Was unterscheidet Slackware von den anderen)
+   die älteste Linux-Distrobution der Welt
+ 
+ 
+++ FRAGE DES MONATS
+// Screencapture auf Pauls Rechner wechseln
+ - Paul: Warum stellt mein verdammtes XPDF die GUI auf Chinesisch dar? Wenn ihr die Antwort wisst, dann einfach hier bei Youtube kommentieren oder wo auch immer ihr das Video gefunden hat.
 
 
 ++ FEEDBACK UND SCHLUSS -- 
 // TODO: Text für "Danke fürs Ansehen" überlegen oder aus dem Stegreif?
+ - Das nächste Mal: raspberry pi, wenn er denn dieses Jahr noch ankommt.
  - wir benutzen github zur öffentlichen Entwicklung des Sendungsscripts und sind somit völlig transparent für euch; kein DRM, und alles GPLed bzw. frei verfügbar zum weiterverteilen und verbreiten. (diesen Text eventuell nochmal überarbeiten)
  
-Forkt das! UND: Bis zum nächsten Mal bei "GNU funzt!"
+G'nug für heute. Forkt das! UND: Bis zum nächsten Mal bei "GNU funzt!"
+
+
+++ ABSPANN
+(Sound vom Anfang)
+ - mit Welcher Software wurde alles erstellt
+ - Lizenz CC-BY-SA, hilfswiese CC-BY
+ - Werbung für Linuxworks! mit URL
+ - Artwork-Credits
+ - github-Link
