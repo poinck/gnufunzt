@@ -1,12 +1,12 @@
-++ GNU FUNZT -- Aufnahme 113
+++ GNU FUNZT -- Aufnahme 113, 117, 119
 == Animation: Stern-Karusell
 Diese Sendung wird ermöglicht durch GNU Software.
 
--- Aufnahme 
+-- Aufnahme 119 (letzter Satz vom ersten Versuch nehmen, sonst alles vom letzten)
 Paul: We are serious Linux Action Show fans
 André: But not anymore
 Paul: Why not?
-André: They moved away from GPL software and get the freak out of me.
+André: They moved away from GPL software which absolutly freaked me out.
 
 /*
 Paul: Wir sind ja alte Linux Action Show Fans
@@ -15,21 +15,20 @@ Paul: Deswegen haben wir das mal geforkt.
 */
 
 
-++ INTRO -- Aufnahme 112
+++ INTRO -- Aufnahme 129
+/*
 Ist Wayland der nächste Xserver oder müssen wir X11 noch ein bisschen länger ertragen? Schaltet ein und findets raus; ob mich die LEDs im Studio erblinden lassen. PLUS: Unsere Meinung zu Gnome 3.6 und wie du es unter Arch Linux installieren kannst.
-	// TODO  zum Schluss neu einsprechen und an die tatsächlichen Nachrichten anpassen.
+*/
+
+Gelingt es uns tatsächlich Screencaptures von Android aufzunehmen oder müssen wir doch vom Handy abfilmen. Schaltet ein und findet raus; ob uns die LEDs im Studio erblinden lassen. PLUS: Unsere Meinung Slackware und dem neuen Codenamen von Fedora 19
 
 Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 
 == Bumper: Intro
 
-++ WILLKOMMEN -- Aufnahme 114
-Willkommen zur ersten Staffel und ersten Folge von "GNU funzt". Mein Name ist Andre und der Nerd neben mir ist Paul.
- - vielleicht nochmal übers Forken sprechen; was ist das eigentlich?
-
-
-++ INHALT -- Aufnahme
-gegenseitige Vorstellung, was man denn so an Neuigkeiten (unser Inhaltverzeichnis) mitbgebracht hat und was diese Sendung gereviewt wird.
+++ WILLKOMMEN, INHALT -- Aufnahme 121
+Willkommen zur Version 0.1 von "GNU funzt". Mein Name ist Andre und neben mir sitzt Paul.
+ - vielleicht nochmal übers Forken sprechen; geforkt von LAS; was ist das eigentlich?
  - Paul: dann darauf zu sprechen kommen, warum sich denn gerade die Bildschirmfarbe ändert
  - André: darauf reagieren und somit die GNU-App des Monats; nämlich redshift.
 
@@ -41,12 +40,13 @@ gegenseitige Vorstellung, was man denn so an Neuigkeiten (unser Inhaltverzeichni
  - Distrobution des Monats (zu Beginn die echten GNU-Distros; ansonsten keine, wenn eine Distro gereviewt wird)
    http://www.blagblagblag.org/
 
+++  -- Aufnahme 122 (bis "nich nich nich") 
  - GNUtiful Android-App des Monats (aus FDroid)
    yaxim
    // TODO  versuchen es mit ADB-debug hinzubekommen
 
 
-++ NEUIGKEITEN, NACHRICHTEN --
+++ NEUIGKEITEN, NACHRICHTEN -- Aufnahme 124
 == Bumper: GNUws!
 Neuigkeiten des Monats (Quellen: phoronix, heise, )
 // TODO: sammeln
@@ -57,13 +57,13 @@ Neuigkeiten des Monats (Quellen: phoronix, heise, )
    http://qa.fedoraproject.org/blockerbugs/milestone/18/beta/buglist
    https://plus.google.com/112917221531140868607/posts/3CMYkUfC5j8 
    
- - Nvidia: Open Source Treiber besser als Closed Source? Nicht ganz, nur wenn die Grafikkarte runtergetaktet ist. Fazit: neuere Nvidia-Karten laufen mit dem proprietären Treiber schneller und stabiler. Wer sowas altes hat wie ich, kann auch schön 
+ x Nvidia: Open Source Treiber besser als Closed Source? Nicht ganz, nur wenn die Grafikkarte runtergetaktet ist. Fazit: neuere Nvidia-Karten laufen mit dem proprietären Treiber schneller und stabiler. Wer sowas altes hat wie ich, kann auch schön 
  beim Nouveau-Treiber bleiben. Bessere Speichertaktung erst ab Linux 3.8
    http://www.phoronix.com/scan.php?page=article&item=nvidia_nouveau_clocks&num=1
- - neuer proprietärer Treiber R310 besser für Spiele:
+ x neuer proprietärer Treiber R310 besser für Spiele:
    http://www.heise.de/open/meldung/Nvidia-Neuer-Linux-Treiber-fuer-mehr-Leistung-beim-Spielen-1745377.html
    
- - Wayland
+ x Wayland
    http://www.phoronix.com/scan.php?page=news_item&px=MTIyMzE
    
  - Fedora 20: unser Tipp für den nächsten Codenamen
@@ -75,7 +75,7 @@ Neuigkeiten des Monats (Quellen: phoronix, heise, )
    http://www.heise.de/open/meldung/Erste-Alphaversion-von-Enlightenment-E17-1744556.html (mit Bildschirmfotos)
    // TODO: Debatte: interessiert uns E17 überhaupt? BSD-Lizenz statt GPL.
    
- - Stallmans Lösung für das Softwarepartent-Desaster
+ x Stallmans Lösung für das Softwarepartent-Desaster
    http://www.heise.de/open/meldung/Stallman-schlaegt-Ausweg-aus-dem-Softwarepatent-Desaster-vor-1742814.html
    // TODO: finden wir hier genug Material um das kurz in der Sendung anzudiskutieren?
    
@@ -89,20 +89,16 @@ Neuigkeiten des Monats (Quellen: phoronix, heise, )
    http://www.heise.de/open/artikel/Linus-Torvalds-Quellcode-lese-ich-nicht-mehr-1750222.html
    
 
-++ REVIEW --
+++ REVIEW -- Aufnahme 125
 // TODO: VM vorbereiten (André)
 
  - Slackware (Paketmanager, Was unterscheidet Slackware von den anderen)
    die älteste Linux-Distrobution der Welt
  
  
-++ FRAGE DES MONATS
-// Screencapture auf Pauls Rechner wechseln
+++ FRAGE DES MONATS, SCHLUSS -- Aufnahme 126, 127, 128 
  - Paul: Warum stellt mein verdammtes XPDF die GUI auf Chinesisch dar? Wenn ihr die Antwort wisst, dann einfach hier bei Youtube kommentieren oder wo auch immer ihr das Video gefunden hat.
-
-
-++ FEEDBACK UND SCHLUSS -- 
-// TODO: Text für "Danke fürs Ansehen" überlegen oder aus dem Stegreif?
+// TODO: Screenshot von Pauls xpdf
  - Das nächste Mal: raspberry pi, wenn er denn dieses Jahr noch ankommt.
  - wir benutzen github zur öffentlichen Entwicklung des Sendungsscripts und sind somit völlig transparent für euch; kein DRM, und alles GPLed bzw. frei verfügbar zum weiterverteilen und verbreiten. (diesen Text eventuell nochmal überarbeiten)
  
