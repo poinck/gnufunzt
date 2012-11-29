@@ -1,5 +1,5 @@
 ++ GNU FUNZT -- Aufnahme 113, 117, 119
-== Animation: Stern-Karusell
+== Animation: Burst
 Diese Sendung wird ermöglicht durch GNU Software.
 
 -- Aufnahme 119 (letzter Satz vom ersten Versuch nehmen, sonst alles vom letzten)
@@ -89,14 +89,14 @@ Neuigkeiten des Monats (Quellen: phoronix, heise, )
    http://www.heise.de/open/artikel/Linus-Torvalds-Quellcode-lese-ich-nicht-mehr-1750222.html
    
 
-++ REVIEW -- Aufnahme 125
-// TODO: VM vorbereiten (André)
-
+++ DER TEST -- Aufnahme 125
+&& Bumper: // TODO: Erik hat eine Sound-Idee
  - Slackware (Paketmanager, Was unterscheidet Slackware von den anderen)
    die älteste Linux-Distrobution der Welt
  
  
 ++ FRAGE DES MONATS, SCHLUSS -- Aufnahme 126, 127, 128 
+&& Bumper: // TODO: Sound mit Gitarre aufnehmen (André)
  - Paul: Warum stellt mein verdammtes XPDF die GUI auf Chinesisch dar? Wenn ihr die Antwort wisst, dann einfach hier bei Youtube kommentieren oder wo auch immer ihr das Video gefunden hat.
 // TODO: Screenshot von Pauls xpdf
  - Das nächste Mal: raspberry pi, wenn er denn dieses Jahr noch ankommt.
@@ -112,3 +112,4 @@ G'nug für heute. Forkt das! UND: Bis zum nächsten Mal bei "GNU funzt!"
  - Werbung für Linuxworks! mit URL
  - Artwork-Credits
  - github-Link
+ - Musik: Regeltarif, Erik
