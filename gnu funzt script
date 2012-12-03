@@ -40,10 +40,9 @@ Willkommen zur Version 0.1 von "GNU funzt". Mein Name ist Andre und neben mir si
  - Distrobution des Monats (zu Beginn die echten GNU-Distros; ansonsten keine, wenn eine Distro gereviewt wird)
    http://www.blagblagblag.org/
 
-++  -- Aufnahme 122 (bis "nich nich nich") 
- - GNUtiful Android-App des Monats (aus FDroid)
-   yaxim
-   // TODO  versuchen es mit ADB-debug hinzubekommen
+++ GNUTIFUL APPLICATION -- Aufnahme 122 (bis "nich nich nich") 
+ - yaxim
+   // TODO  versuchen es mit ADB-debug hinzubekommen .. GESCHAFFT
 
 
 ++ NEUIGKEITEN, NACHRICHTEN -- Aufnahme 124
@@ -94,9 +93,9 @@ Neuigkeiten des Monats (Quellen: phoronix, heise, )
  - Slackware (Paketmanager, Was unterscheidet Slackware von den anderen)
    die älteste Linux-Distrobution der Welt
  
- 
+
 ++ FRAGE DES MONATS, SCHLUSS -- Aufnahme 126, 127, 128 
-&& Bumper: // TODO: André nimmt Sound mit Gitarre auf
+&& Bumper: // TODO: André nimmt Sound mit Gitarre auf .. DONE
  - Paul: Warum stellt mein verdammtes XPDF die GUI auf Chinesisch dar? Wenn ihr die Antwort wisst, dann einfach hier bei Youtube kommentieren oder wo auch immer ihr das Video gefunden hat.
 // TODO: Screenshot von Pauls xpdf
  - Das nächste Mal: raspberry pi, wenn er denn dieses Jahr noch ankommt.
