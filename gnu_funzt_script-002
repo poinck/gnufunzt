@@ -28,7 +28,11 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 
 ++ GNUTIFUL APPLICATION -- Aufnahme  
  - Frozen Bubble für Android
-// TODO  
+ 
+ - oder: Owncloud (im Gegensatz zu Ubuntu One ist die Server-Komponente frei)
+   http://www.muktware.com/4969/owncloud-android-app-review#.UMsP5ra8ooY 
+ - "While thinkers like Richard Stallman oppose the use of cloud, there are advantages of using the cloud which can't be denied."
+ - können wir das wirklich empfehlen, obwohl die Android-Anwendung Geld kostet? Gibt es alternative Clients für den owncloud-Server? (webdav, caldav usw.)
 
 
 ++ NEUIGKEITEN, NACHRICHTEN -- Aufnahme 
@@ -41,6 +45,11 @@ Neuigkeiten des Monats (Quellen: phoronix, heise, ...)
    
  - Steam vs. GNU-Spiele; und Fedora hat sogar ein Steam-Repo? Was passiert hier eigentlich?
    // TODO  @André: Recherchieren, welche GNU-Spiele in der jüngeren Vergangenheit eine neue Version mit spannenden Änderungen herausgebracht haben.
+   
+ - Samba 4: nach 10 Jahren endlich zu Active-Directory-kompatibel. Samba4-Entwickler haben sich mit Microisoft-Entwicklern zusammengesetzt um diesen Meilenstein zu erreichen
+ - Replikation zwischen anderen AD-Server ist aber noch nicht fertig implementiert
+   http://www.heise.de/meldung/Erstes-freies-Active-Directory-Samba-4-ist-da-1766883.html/from/atom10
+   http://wiki.samba.org/index.php/Samba4/videos (Video zeigt das Hinzufügen von Win7 zu einer Samba4-Domäne)
    
 
 ++ DER TEST -- Aufnahme 
