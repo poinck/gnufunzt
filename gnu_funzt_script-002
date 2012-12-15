@@ -51,11 +51,18 @@ Neuigkeiten des Monats (Quellen: phoronix, heise, ...)
    http://www.heise.de/meldung/Erstes-freies-Active-Directory-Samba-4-ist-da-1766883.html/from/atom10
    http://wiki.samba.org/index.php/Samba4/videos (Video zeigt das Hinzufügen von Win7 zu einer Samba4-Domäne)
    
+ - Ein Linux-Kernel-Patch entfernt die Unterstützung für 386-Prozessoren. Linus antwortet mit "I’m not sentimental" 
+   http://www.wired.com/wiredenterprise/2012/12/linux-386/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+wired%2Findex+%28Wired%3A+Top+Stories%29
+   
 
 ++ DER TEST -- Aufnahme 
 && Bumper: Test
  - Arch-Linux
 // TODO  @Paul: auf echter Hardware installieren.
+
+ - oder: E17?
+   http://enlightenment.org/p.php?p=news/show&l=en&news_id=73 
+// TODO  @André: Unter Arch installieren, wenn verfügbar.
  
 
 ++ FRAGE DES MONATS, SCHLUSS -- Aufnahme 
