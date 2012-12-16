@@ -19,20 +19,14 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
    http://www.reddit.com/r/LinuxActionShow/comments/14ewvu/introducing_a_fork_of_the_awesome_linux_action/
 
  - Die Desktopanwendung des Monats 
-   Gramps (mit Linux-Distros) 
-   // TODO  @André vorbereiten
+ - Amarok
    
  - Distrobution des Monats (zu Beginn die echten GNU-Distros; ansonsten keine, wenn eine Distro gereviewt wird)
    Dragora: http://www.dragora.org/en/index.html
    // TODO  @André: einarbeiten
 
 ++ GNUTIFUL APPLICATION -- Aufnahme  
- - Frozen Bubble für Android
- 
- - oder: Owncloud (im Gegensatz zu Ubuntu One ist die Server-Komponente frei)
-   http://www.muktware.com/4969/owncloud-android-app-review#.UMsP5ra8ooY 
- - "While thinkers like Richard Stallman oppose the use of cloud, there are advantages of using the cloud which can't be denied."
- - können wir das wirklich empfehlen, obwohl die Android-Anwendung Geld kostet? Gibt es alternative Clients für den owncloud-Server? (webdav, caldav usw.)
+ - aCal
 
 
 ++ NEUIGKEITEN, NACHRICHTEN -- Aufnahme 
@@ -57,12 +51,8 @@ Neuigkeiten des Monats (Quellen: phoronix, heise, ...)
 
 ++ DER TEST -- Aufnahme 
 && Bumper: Test
- - Arch-Linux
-// TODO  @Paul: auf echter Hardware installieren.
-
- - oder: E17?
-   http://enlightenment.org/p.php?p=news/show&l=en&news_id=73 
-// TODO  @André: Unter Arch installieren, wenn verfügbar.
+ - Owncloud (im Gegensatz zu Ubuntu One ist die Server-Komponente frei)
+ - "While thinkers like Richard Stallman oppose the use of cloud, there are advantages of using the cloud which can't be denied."
  
 
 ++ FRAGE DES MONATS, SCHLUSS -- Aufnahme 
