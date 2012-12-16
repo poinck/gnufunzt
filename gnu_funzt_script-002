@@ -6,13 +6,13 @@ Diese Sendung wird ermöglicht durch GNU Software.
 ++ INTRO -- Aufnahme 
 Diesmal bei "GNU funzt!": Wird uns im Jahr 2013 Ubuntu auf den GNU-Kopf fallen oder wechseln wir schon bald zu einer echten GNU/Linux-Distribution wie Dragora?
 Schaltet ein und findet's raus; ob Owncloud wirklich deine eigene funktionierende Cloud ist
-PLUS: Unsere Meinung zu E17!
+PLUS: Wie KDE-Benutzer Musik hören.
 
 Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 
 == Bumper: Intro
 
-++ WILLKOMMEN, INHALT -- Aufnahme 
+++ WILLKOMMEN, INHALT -- Aufnahme 133
  - Paul: Es wird gefährlich. Willkommen zur Episode 002 unser Sendung "GNU funzt!"
  - André: Reddit-Feedback (Link vergessen zu posten), Youtube-Feedback (Danksagung)
    http://www.youtube.com/watch?v=LnRv2PKYpXU
@@ -21,11 +21,11 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
  - Die Desktopanwendung des Monats 
  - Amarok
    
- - Distrobution des Monats (zu Beginn die echten GNU-Distros; ansonsten keine, wenn eine Distro gereviewt wird)
+ - Distribution des Monats (zu Beginn die echten GNU-Distros; ansonsten keine, wenn eine Distro gereviewt wird)
    Dragora: http://www.dragora.org/en/index.html
    // TODO  @André: einarbeiten
 
-++ GNUTIFUL APPLICATION -- Aufnahme  
+++ GNUTIFUL APPLICATION -- Aufnahme 136
  - aCal
 
 
@@ -37,17 +37,22 @@ Neuigkeiten des Monats (Quellen: phoronix, heise, ...)
  - Spyware in Ubuntu (Richard Stallman)
    https://www.fsf.org/blogs/rms/ubuntu-spyware-what-to-do
    
- - Steam vs. GNU-Spiele; und Fedora hat sogar ein Steam-Repo? Was passiert hier eigentlich?
+ x Steam vs. GNU-Spiele; und Fedora hat sogar ein Steam-Repo? Was passiert hier eigentlich?
    // TODO  @André: Recherchieren, welche GNU-Spiele in der jüngeren Vergangenheit eine neue Version mit spannenden Änderungen herausgebracht haben.
    
- - Samba 4: nach 10 Jahren endlich zu Active-Directory-kompatibel. Samba4-Entwickler haben sich mit Microisoft-Entwicklern zusammengesetzt um diesen Meilenstein zu erreichen
+ - Samba 4: nach 10 Jahren endlich zu Active-Directory-kompatibel. Samba4-Entwickler haben sich mit Microsoft-Entwicklern zusammengesetzt um diesen Meilenstein zu erreichen
  - Replikation zwischen anderen AD-Server ist aber noch nicht fertig implementiert
    http://www.heise.de/meldung/Erstes-freies-Active-Directory-Samba-4-ist-da-1766883.html/from/atom10
    http://wiki.samba.org/index.php/Samba4/videos (Video zeigt das Hinzufügen von Win7 zu einer Samba4-Domäne)
    
  - Ein Linux-Kernel-Patch entfernt die Unterstützung für 386-Prozessoren. Linus antwortet mit "I’m not sentimental" 
    http://www.wired.com/wiredenterprise/2012/12/linux-386/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+wired%2Findex+%28Wired%3A+Top+Stories%29
+
+ - Software-Patente in Europa?
+   http://fsfe.org/news/2012/news-20121211-01.en.html
    
+ - btrfs Hash-Collission
+   http://crypto.junod.info/2012/12/13/hash-dos-and-btrfs/
 
 ++ DER TEST -- Aufnahme 
 && Bumper: Test
