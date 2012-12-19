@@ -49,12 +49,22 @@ Neuigkeiten des Monats (Quellen: phoronix, heise, ...)
    http://www.wired.com/wiredenterprise/2012/12/linux-386/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+wired%2Findex+%28Wired%3A+Top+Stories%29
  - Was Bryan Lundake dazu meint: lustigere Bezeichnungen für Linux-ISOs (kennen wir ja schon: "amd64")
    http://www.networkworld.com/community/node/82009 
+ - Git patches:
+   http://git.kernel.org/?p=linux/kernel/git/torvalds/linux-2.6.git;a=commitdiff;h=7ac468b1300f35143a9b5b100e3970ca7ae1d9b8
+   http://git.kernel.org/?p=linux/kernel/git/torvalds/linux-2.6.git;a=commitdiff;h=d55c5a93db2d5fa95f233ab153f594365d95b777
+   http://git.kernel.org/?p=linux/kernel/git/torvalds/linux-2.6.git;a=commitdiff;h=eb068e781020cf491333c773fb41820b57bfada4
 
  - Software-Patente in Europa?
    http://fsfe.org/news/2012/news-20121211-01.en.html
    
  - btrfs Hash-Collission
    http://crypto.junod.info/2012/12/13/hash-dos-and-btrfs/
+   
+ - HTML5 für fertig erklärt; Arbeiten an 5.1 haben begonnen
+   http://www.heise.de/ix/meldung/W3C-erklaert-HTML5-fuer-fertig-1770814.html
+   
+ - Pulsaudio 3.0 ist fertig
+   http://www.heise.de/open/meldung/PulseAudio-3-0-ist-fertig-1771496.html
 
 ++ DER TEST -- Aufnahme 
 && Bumper: Test
