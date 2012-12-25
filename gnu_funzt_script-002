@@ -37,8 +37,9 @@ Neuigkeiten des Monats (Quellen: phoronix, heise, ...)
  - Spyware in Ubuntu (Richard Stallman)
    https://www.fsf.org/blogs/rms/ubuntu-spyware-what-to-do
    
- x Steam vs. GNU-Spiele; und Fedora hat sogar ein Steam-Repo? Was passiert hier eigentlich?
-   // TODO  @André: Recherchieren, welche GNU-Spiele in der jüngeren Vergangenheit eine neue Version mit spannenden Änderungen herausgebracht haben.
+ - GNU Grep und SED Maintainer hört auf und sagt zum Abschied, dass Stallman und die FSF, dem GNU-Projekt mehr schaden als nützen
+   http://news.slashdot.org/story/12/12/23/1945248/gnu-grep-and-sed-maintainer-quits-rms-and-fsf-harming-gnu-project
+   original: http://article.gmane.org/gmane.comp.lang.smalltalk.gnu.general/7873
    
  - Samba 4: nach 10 Jahren endlich zu Active-Directory-kompatibel. Samba4-Entwickler haben sich mit Microsoft-Entwicklern zusammengesetzt um diesen Meilenstein zu erreichen
  - Replikation zwischen anderen AD-Server ist aber noch nicht fertig implementiert
