@@ -68,6 +68,8 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
    
  - Pulsaudio 3.0 ist fertig
    http://www.heise.de/open/meldung/PulseAudio-3-0-ist-fertig-1771496.html
+ - Kernel-Patch führt zu Problemen mit "pulsaudio"; Linus ist sauer:
+   https://lkml.org/lkml/2012/12/23/75
 
 ++ DER TEST -- Aufnahme 
 && Bumper: Test
