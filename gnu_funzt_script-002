@@ -3,24 +3,24 @@
 Diese Sendung wird ermöglicht durch GNU Software.
 
 
-++ INTRO -- Aufnahme 
-Diesmal bei "GNU funzt!": Wird uns im Jahr 2013 Ubuntu auf den GNU-Kopf fallen oder wechseln wir schon bald zu einer echten GNU/Linux-Distribution wie Dragora?
+++ INTRO -- Aufnahme 142
+Diesmal bei "GNU funzt!": Wird uns im Jahr 2013 Ubuntu auf die GNU-Köpfe fallen oder wechseln wir schon bald zu einer echten GNU/Linux-Distribution wie Dragora?
 Schaltet ein und findet's raus; ob Owncloud wirklich deine eigene funktionierende Cloud ist
-PLUS: Wie KDE-Benutzer Musik hören.
+PLUS: Was unsere Hausgrafiker so tun während wir hier moderieren.
 
 Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 
 == Bumper: Intro
 
-++ WILLKOMMEN, INHALT -- Aufnahme 133, 
+++ WILLKOMMEN, INHALT -- Aufnahme 133 (nur Dragora), 141
  - Paul: Es wird gefährlich. Willkommen zur Episode 002 unser Sendung "GNU funzt!"
  - André: Reddit-Feedback (Link vergessen zu posten), Youtube-Feedback (Danksagung)
    http://www.youtube.com/watch?v=LnRv2PKYpXU
    http://www.reddit.com/r/LinuxActionShow/comments/14ewvu/introducing_a_fork_of_the_awesome_linux_action/
 
  - Die Desktopanwendung des Monats 
- - Krita oder MyPaint 1.1
-   // TODO  @André: beides installieren
+ - MyPaint
+   // TODO  @André: beides installieren .. ERLEDIGT
    
  - Distribution des Monats (zu Beginn die echten GNU-Distros; ansonsten keine, wenn eine Distro gereviewt wird)
    Dragora: http://www.dragora.org/en/index.html
@@ -29,7 +29,7 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
  - aCal
 
 
-++ NEUIGKEITEN, NACHRICHTEN -- Aufnahme 
+++ NEUIGKEITEN, NACHRICHTEN -- Aufnahme 138, 139 (btrfs weglassen), 
 == Bumper: GNUws!
 // TODO: sammeln
    
@@ -73,16 +73,15 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
  - Kernel-Patch führt zu Problemen mit "pulsaudio"; Linus ist sauer:
    https://lkml.org/lkml/2012/12/23/75
 
-++ DER TEST -- Aufnahme 
+++ DER TEST -- Aufnahme 140
 && Bumper: Test
  - Owncloud (im Gegensatz zu Ubuntu One ist die Server-Komponente frei)
  - "While thinkers like Richard Stallman oppose the use of cloud, there are advantages of using the cloud which can't be denied."
  
 
-++ FRAGE DES MONATS, SCHLUSS -- Aufnahme 
+++ FRAGE DES MONATS, SCHLUSS -- Aufnahme 143
 && Bumper: Frage
- - Was passiert in der Hurde? Schaut für uns in der Glas-GNUgel.
- - Das nächste Mal: Raspberry Pi
+ - Schaut für uns in der Glas-GNUgel. Was sollen für euch in 2013 alles anfassen? Ansonsten gibt es in der nächsten Sendung was vom Raspberry Pi zu sehen.
  
 G'nug für heute. Forkt das! UND: Bis zum nächsten Mal bei "GNU funzt!"
 
