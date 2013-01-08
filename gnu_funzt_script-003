@@ -15,14 +15,16 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 ++ WILLKOMMEN, INHALT -- Aufnahme 
  - Paul: 
  - André: Statusbericht zu meinem Raspberry Pi "Projekt".
-   // TODO  @André: mindestens ein Foto zum Zeigen, was zurzeit alles noch nicht geht. *hmpf*
+   // TODO  @André: Foto?
 
  - Die Desktopanwendung des Monats 
- - 
+ - Kommandozeilen-Podder
+   // TODO  @André: einen finden!
    
  - Distribution des Monats
  - Dyne:bolic
    http://www.dynebolic.org/
+   // TODO  @André: in VM aufsetzen?
    
 
 ++ GNUTIFUL APPLICATION -- Aufnahme
@@ -32,6 +34,9 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 ++ NEUIGKEITEN, NACHRICHTEN -- Aufnahme 
 == Bumper: GNUws!
 // TODO: sammeln
+   
+ - Cron-ähnliche Funktionen in systemd 197
+   http://lists.freedesktop.org/archives/systemd-devel/2013-January/008048.html
    
  - 
 
