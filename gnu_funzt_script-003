@@ -45,6 +45,12 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 && Bumper: Test
  - Paul erklärt APT-Pinning
    // TODO  überlegen, ob wir das machen können/wollen
+   
+   ODER:
+   
+ - Das SPDY-Protokoll
+   http://de.wikipedia.org/wiki/SPDY
+   // TODO  @André: Webserver mit dem enstprechenden "mod_spdy" aufsetzen.
  
 
 ++ FRAGE DES MONATS, SCHLUSS -- Aufnahme 143
