@@ -19,7 +19,8 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 
  - Die Desktopanwendung des Monats 
  - Kommandozeilen-Podder
-   // TODO  @André: einen finden!
+   gpo (cli-Version von gpodder)
+   // TODO  @André: einarbeiten
    
  - Distribution des Monats
  - Dyne:bolic
@@ -51,6 +52,7 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
  - Das SPDY-Protokoll
    http://de.wikipedia.org/wiki/SPDY
    // TODO  @André: Webserver mit dem enstprechenden "mod_spdy" aufsetzen.
+ - bei dieser Gelegenheit auch gleich die neue Webseite von vorstellen.
  
 
 ++ FRAGE DES MONATS, SCHLUSS -- Aufnahme 143
