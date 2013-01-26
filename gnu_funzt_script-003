@@ -13,9 +13,8 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 == Bumper: Intro
 
 ++ WILLKOMMEN, INHALT -- Aufnahme 
- - Paul: 
+ - Paul: Was hab ich mit dem RPI vor? (Codename: schwarz-weiß)
  - André: Statusbericht zu meinem Raspberry Pi "Projekt".
-   // TODO  @André: Foto?
 
  - Die Desktopanwendung des Monats 
  - Kommandozeilen-Podder
@@ -45,6 +44,21 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
    
  - Fedora 18 ist da
    http://distrowatch.com/?newsid=07668 
+   jedoch lieblos und unfertig? aber dafür: Offline-Updates und UEFI-SecureBoot
+   http://derstandard.at/1356427320081/Fedora-18-Viel-Neues-fuer-die-Linux-Welt
+   http://www.heise.de/open/artikel/Fedora-18-im-Test-1782976.html
+   
+ - Gnome wird erneut geforkt; diesmal der Gnome3-Fallback-Modus. 
+   // TODO  Quelle finden
+   
+ - Hardware-Installer für Debian "pakker"
+   http://www.muktware.com/5137/installing-new-hardware-will-now-be-easier-debian 
+   
+ - Alan Cox verlässt Kernel-Entwicklung
+   http://www.linux-magazin.de/NEWS/Alan-Cox-verlaesst-die-Kernelentwicklung
+   
+ - Firefox OS auf dem ersten Mozilla-Entwickler-Telefon
+   http://www.muktware.com/5120/mozilla-announces-firefox-os-developer-phone
 
 ++ DER TEST -- Aufnahme 
 && Bumper: Test
