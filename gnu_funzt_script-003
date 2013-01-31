@@ -1,6 +1,7 @@
 ++ GNU FUNZT -- Aufnahme 113, 117, 119
 == Animation: Burst
 Diese Sendung wird ermöglicht durch GNU Software.
+// TODO  @André: Distro mit KDE aufsetzen
 
 
 ++ INTRO -- Aufnahme 
@@ -13,14 +14,11 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 == Bumper: Intro
 
 ++ WILLKOMMEN, INHALT -- Aufnahme 
- - Paul: Was hab ich mit dem RPI vor? (Codename: schwarz-weiß)
- - André: Statusbericht zu meinem Raspberry Pi "Projekt". Mehr dann bei uns im Test. Zunächst fangen wir aber mal klein an. 
+ - André: Statusbericht zu meinem Raspberry Pi "Projekt". Mehr dann bei uns im Test.
 
- - Die Desktopanwendung des Monats 
- - Kommandozeilen-Podder
-   gpo (cli-Version von gpodder)
-   http://gpodder.org/
-   
+ - Die Applikation des Monats 
+ - Marble (Open Streetmaps für den KDE-Desktop)
+ 
  - Distribution des Monats
  - Dyne:bolic
    http://www.dynebolic.org/
@@ -28,7 +26,7 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
    
 
 ++ GNUTIFUL APPLICATION -- Aufnahme
- - 
+ - GnuCash
 
 
 ++ NEUIGKEITEN, NACHRICHTEN -- Aufnahme 
@@ -61,15 +59,17 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 
 ++ DER TEST -- Aufnahme 
 && Bumper: Test
- - Paul erklärt APT-Pinning
-   // TODO  überlegen, ob wir das machen können/wollen
+ - Raspberry Pi
+ - Kommandozeilen-Podder
+   gpo (cli-Version von gpodder)
+   http://gpodder.org/
+   // TODO  @André: crontab für (Video-)Podcasts erstellen
    
-   ODER:
+ - Musik aus der Kommandozeile
+   MOC
+   // TODO  @André: Beispiel-Playlists erstellen und besondere Features herausfinden
    
- - Das SPDY-Protokoll
-   http://de.wikipedia.org/wiki/SPDY
-   // TODO  @André: Webserver mit dem enstprechenden "mod_spdy" aufsetzen.
- - bei dieser Gelegenheit auch gleich die neue Webseite von vorstellen.
+ - Pauls Projekt auf dem Raspberry Pi (Codename: schwarz-weiß)
  
 
 ++ FRAGE DES MONATS, SCHLUSS -- Aufnahme 143
