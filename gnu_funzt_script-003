@@ -1,7 +1,7 @@
 ++ GNU FUNZT -- Aufnahme 113, 117, 119
 == Animation: Burst
 Diese Sendung wird ermöglicht durch GNU Software.
-// TODO  @André: Distro mit KDE aufsetzen
+// TODO  @André: Distro mit KDE aufsetzen .. ERLEDIGT, KDE unter Debian
 
 
 ++ INTRO -- Aufnahme 
@@ -14,7 +14,7 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 == Bumper: Intro
 
 ++ WILLKOMMEN, INHALT -- Aufnahme 
- - André: Statusbericht zu meinem Raspberry Pi "Projekt". Mehr dann bei uns im Test.
+ - André: Der Debian-Freeze zerrt an uns, deswegen haben wir mal KDE installiert, um mal was neues zu sehen.
 
  - Die Applikation des Monats 
  - Marble (Open Streetmaps für den KDE-Desktop)
@@ -22,7 +22,7 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
  - Distribution des Monats
  - Dyne:bolic
    http://www.dynebolic.org/
-   // TODO  @André: in VM aufsetzen?
+   // TODO  @André: in VM aufsetzen? .. IN ARBEIT, Virtual Box bereits installiert
    
 
 ++ GNUTIFUL APPLICATION -- Aufnahme
@@ -63,11 +63,11 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
  - Kommandozeilen-Podder
    gpo (cli-Version von gpodder)
    http://gpodder.org/
-   // TODO  @André: crontab für (Video-)Podcasts erstellen
+   // TODO  @André: crontab erstellen .. ERLEDIGT
    
  - Musik aus der Kommandozeile
    MOC
-   // TODO  @André: Beispiel-Playlists erstellen und besondere Features herausfinden
+   // TODO  @André: Beispiel-Playlists erstellen und besondere Features herausfinden .. IN ARBEIT, aber schon einen relativ guten Überblick bekommen.
    
  - Pauls Projekt auf dem Raspberry Pi (Codename: schwarz-weiß)
  
