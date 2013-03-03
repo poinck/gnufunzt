@@ -16,7 +16,8 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
  - Paul/André: Community-Events ankündigen; CLT und LinuxTag.
 
  - Die Applikation des Monats 
- - 
+ - Empathy und KDEtelepathy (Telepathy)
+   doppeltes Screencapture von Pauls und Andrés Notebook
  
  - Distribution des Monats
  - gNewSense
@@ -24,9 +25,7 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
    
 
 ++ GNUTIFUL APPLICATION  3 min -- Aufnahme 
- - Jamendo
- - xkcdViewer
- - NoNonsense Notes
+ - OsmAnd: Freie Navigation für Android
 
 
 ++ NEUIGKEITEN, NACHRICHTEN -- Aufnahme 
@@ -47,11 +46,11 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
  - nicht nur in Sachen QML (für Schnittstellenbeschreibungen) hat sich viel getan, sondern auch bei den Applikationen: Marble hat somit jetzt auch Karten für Mars und Venus
    http://derstandard.at/1358305815915/KDE-Version-410-ist-da
    
- - Richard Stallman: "To big to fail"
-   http://derstandard.at/1358305815915/KDE-Version-410-ist-da
-   
  - Wayland in Arch (community), Weston compositor geplant
    https://mailman.archlinux.org/pipermail/arch-dev-public/2013-February/024422.html
+
+ - Richard Stallman: "To big to fail"
+   http://blogs.reuters.com/great-debate/2013/02/04/fixing-too-big-to-fail/
    
  - Richard Stallman: Wird Ubuntu Phone Spyware und unfreie Software enthalten? Schätzen wir Bequemlichkeit mehr als Freiheit?
    http://www.muktware.com/videos/5227/richard-stallman-we-need-teach-canonical-lesson
@@ -59,10 +58,15 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
  - Linux-Rootkit missbraucht SSH-Dienst
    http://www.heise.de/newsticker/meldung/Linux-Rootkits-missbrauchen-SSH-Dienst-1810406.html
    
+ - sudo 1.6 bis 1.8 von Autentifizierungslücke betroffen. Viele Distributionen verlangen zum Ändern der Uhrzeit allerdings ein Passwort, wodurch dann kein Problem besteht.
+   André: Der Grund, warum ich kein "sudo" benutze. 
+   http://www.sudo.ws/sudo/alerts/epoch_ticket.html 
+   
 
 ++ DER TEST  15 min -- Aufnahme 150
 && Bumper: Test
- - 
+ - Wayland unter Arch
+   http://sourceforge.net/projects/rebeccablackos/files/January%2012%202013/
  
 
 ++ FRAGE DES MONATS, SCHLUSS -- Aufnahme 
