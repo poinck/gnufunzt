@@ -3,28 +3,27 @@
 Diese Sendung wird ermöglicht durch GNU Software.
 
 
-++ INTRO -- Aufnahme
-Diesmal bei "GNU funzt!": 
-Schaltet ein und findet's raus, 
-PLUS: 
+++ INTRO -- Aufnahme 193, Take 3
+Diesmal bei "GNU funzt!": Warum User besser nicht an der Uhr drehen sollten und was in unserem Podcast noch so gedreht wird. 
+Schaltet ein und findet's raus, wer oder was uns nach Chemnitz bringt.
+PLUS: Richards Antwort auf Marks Antwort auf Richards Aussage.
 
 Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 
 == Bumper: Intro
 
-++ WILLKOMMEN, INHALT  10 min -- Aufnahme 
- - Paul/André: Community-Events ankündigen; CLT und LinuxTag.
+++ WILLKOMMEN, INHALT  10 min -- Aufnahme 183 (ohne Distro), 185 (distro-2.ogv)
+ - Paul/André: Community-Events ankündigen: CLT. 16./17.
 
  - Die Applikation des Monats 
  - Empathy und KDEtelepathy (Telepathy)
-   doppeltes Screencapture von Pauls und Andrés Notebook
  
  - Distribution des Monats
  - gNewSense
    http://www.gnewsense.org/
    
 
-++ GNUTIFUL APPLICATION  3 min -- Aufnahme 
+++ GNUTIFUL APPLICATION  3 min -- Aufnahme 186
  - OsmAnd: Freie Navigation für Android
 
 
@@ -35,7 +34,7 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
  - Die Entwicklung von Enlightment 18 legt los; ein Release-Termin wurde noch nicht genannt (Prognose?)
    http://www.heise.de/open/meldung/Entwicklung-von-Enlightenment-18-startet-1795764.html
    
- - Fedora 19: Cinnamon statt Gnome3
+ x Fedora 19: Cinnamon statt Gnome3
    http://www.h-online.com/open/news/item/Cinnamon-proposed-as-Fedora-19-s-default-desktop-interface-1791455.html
    
  - Gnome-Apps; sind nun bald Abhängikeitsprobleme adé oder kommen da Probleme mit bestehenden Paketmanagern auf uns zu?
@@ -43,17 +42,18 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
    
  - KDE 4.10: schneller und mit Applikationsmenüs, die uns an Gnome3 erinnern.
    http://www.muktware.com/5186/kde-410-released-fastest-kde-ever
- - nicht nur in Sachen QML (für Schnittstellenbeschreibungen) hat sich viel getan, sondern auch bei den Applikationen: Marble hat somit jetzt auch Karten für Mars und Venus
+ x nicht nur in Sachen QML (für Schnittstellenbeschreibungen) hat sich viel getan, sondern auch bei den Applikationen: Marble hat somit jetzt auch Karten für Mars und Venus
    http://derstandard.at/1358305815915/KDE-Version-410-ist-da
    
- - Wayland in Arch (community), Weston compositor geplant
+ x Wayland in Arch (community), Weston compositor geplant
    https://mailman.archlinux.org/pipermail/arch-dev-public/2013-February/024422.html
 
- - Richard Stallman: "To big to fail"
+ x Richard Stallman: "To big to fail"
    http://blogs.reuters.com/great-debate/2013/02/04/fixing-too-big-to-fail/
    
  - Richard Stallman: Wird Ubuntu Phone Spyware und unfreie Software enthalten? Schätzen wir Bequemlichkeit mehr als Freiheit?
    http://www.muktware.com/videos/5227/richard-stallman-we-need-teach-canonical-lesson
+   http://www.youtube.com/watch?v=DXnfa0H30L4
    
  - Linux-Rootkit missbraucht SSH-Dienst
    http://www.heise.de/newsticker/meldung/Linux-Rootkits-missbrauchen-SSH-Dienst-1810406.html
@@ -63,16 +63,16 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
    http://www.sudo.ws/sudo/alerts/epoch_ticket.html 
    
 
-++ DER TEST  15 min -- Aufnahme 150
+++ DER TEST  15 min -- Aufnahme 
 && Bumper: Test
  - Wayland unter Arch
    http://sourceforge.net/projects/rebeccablackos/files/January%2012%202013/
  
 
-++ FRAGE DES MONATS, SCHLUSS -- Aufnahme 
+++ FRAGE DES MONATS, SCHLUSS -- Aufnahme 190
 && Bumper: Frage
- - Aspell in Evolution und/oder Chatzilla
-
+ - Fragen aus Mails und reddit beantworten
+ - Wayland-Screenshot-Contest
 
 
 
