@@ -34,22 +34,11 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
  - Die Entwicklung von Enlightment 18 legt los; ein Release-Termin wurde noch nicht genannt (Prognose?)
    http://www.heise.de/open/meldung/Entwicklung-von-Enlightenment-18-startet-1795764.html
    
- x Fedora 19: Cinnamon statt Gnome3
-   http://www.h-online.com/open/news/item/Cinnamon-proposed-as-Fedora-19-s-default-desktop-interface-1791455.html
-   
  - Gnome-Apps; sind nun bald Abhängikeitsprobleme adé oder kommen da Probleme mit bestehenden Paketmanagern auf uns zu?
    http://www.heise.de/newsticker/meldung/Gnome-Entwickler-planen-Linux-Apps-1797503.html
    
  - KDE 4.10: schneller und mit Applikationsmenüs, die uns an Gnome3 erinnern.
    http://www.muktware.com/5186/kde-410-released-fastest-kde-ever
- x nicht nur in Sachen QML (für Schnittstellenbeschreibungen) hat sich viel getan, sondern auch bei den Applikationen: Marble hat somit jetzt auch Karten für Mars und Venus
-   http://derstandard.at/1358305815915/KDE-Version-410-ist-da
-   
- x Wayland in Arch (community), Weston compositor geplant
-   https://mailman.archlinux.org/pipermail/arch-dev-public/2013-February/024422.html
-
- x Richard Stallman: "To big to fail"
-   http://blogs.reuters.com/great-debate/2013/02/04/fixing-too-big-to-fail/
    
  - Richard Stallman: Wird Ubuntu Phone Spyware und unfreie Software enthalten? Schätzen wir Bequemlichkeit mehr als Freiheit?
    http://www.muktware.com/videos/5227/richard-stallman-we-need-teach-canonical-lesson
@@ -58,15 +47,14 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
  - Linux-Rootkit missbraucht SSH-Dienst
    http://www.heise.de/newsticker/meldung/Linux-Rootkits-missbrauchen-SSH-Dienst-1810406.html
    
- - sudo 1.6 bis 1.8 von Autentifizierungslücke betroffen. Viele Distributionen verlangen zum Ändern der Uhrzeit allerdings ein Passwort, wodurch dann kein Problem besteht.
+ - sudo 1.6 bis 1.8 von Authentifizierungslücke betroffen. Viele Distributionen verlangen zum Ändern der Uhrzeit allerdings ein Passwort, wodurch dann kein Problem besteht.
    André: Der Grund, warum ich kein "sudo" benutze. 
    http://www.sudo.ws/sudo/alerts/epoch_ticket.html 
    
 
 ++ DER TEST  15 min -- Aufnahme 
 && Bumper: Test
- - Wayland unter Arch
-   http://sourceforge.net/projects/rebeccablackos/files/January%2012%202013/
+ - Wayland
  
 
 ++ FRAGE DES MONATS, SCHLUSS -- Aufnahme 190
