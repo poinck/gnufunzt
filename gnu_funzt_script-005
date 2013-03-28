@@ -15,14 +15,13 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 ++ WILLKOMMEN, INHALT  10 min -- Aufnahme 
  - Paul/André: Begrüßung
 
- - Die Applikation des Monats 
- - selfoss Web: Die Google Reader Alternative
-   http://selfoss.aditu.de
- 
  - Distribution des Monats
  - Musix GNU/Linux
    http://www.musix.org.ar/en/index.html
-   
+
+ - Die Applikation des Monats 
+ - selfoss Web: Die Google Reader Alternative
+   http://selfoss.aditu.de
 
 ++ GNUTIFUL APPLICATION  3 min -- Aufnahme 
  - selfoss für Android
@@ -31,9 +30,9 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 ++ NEUIGKEITEN, NACHRICHTEN -- Aufnahme 
 == Bumper: GNUws!
 // TODO: sammeln
-   
- - Linus wieder bei Gnome 3 dank zweier guter Extensions
-   http://www.zdnet.de/88146005/linus-torvalds-kehrt-zum-geschmahten-gnome-3-zuruck/
+
+ - Document Freedom Day, 27.3.
+   http://www.documentfreedom.org/
    
  - Mir vs. Wayland: gesunder Wettbewerb?
    http://youtu.be/EfYGjcNmeDY?t=29m07s (Linux Action Show)
@@ -46,8 +45,13 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
  - Wayland-Forker fliegt aus dem IRC und Mailingliste
    http://www.linux-magazin.de/NEWS/Wayland-Forker-fliegt-aus-IRC-und-Mailingliste
    
+ - Linus wieder bei Gnome 3 dank zweier guter Extensions
+   http://www.zdnet.de/88146005/linus-torvalds-kehrt-zum-geschmahten-gnome-3-zuruck/
+   
  - Gnome 3.8 Release
-   // TODO  @André: auf das Release warten und Link hinzufügen
+   https://help.gnome.org/misc/release-notes/3.8/
+   http://www.networkworld.com/community/node/82741 (Bryan Lundukes Gedanken über den "Classic mode"; "Gnome zu forken, war reine Zeitverschwendung")
+   André: Unity zu entwickeln war auch Zeitverschwendung
  
  - Ardour 3.0 Release
    http://community.ardour.org/s/buy_anon
@@ -60,20 +64,16 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 ++ DER TEST  15 min -- Aufnahme 
 && Bumper: Test
  - Backup unter Linux
-   Clonezilla
-   partimage
-   duplicity
-   
- - Dateien wiederherstellen mit testdrive
-   http://worldofgnome.org/how-to-restore-deleted-files-on-linux/ 
-   // TODO  @all: Können wir das demonstrieren?
+   rsync
+   deja-dup (duplicity)
+   // TODO  @André: Verzeichnis (eventuell in einer VM) mit Dateien zum Sichern und Löschen vorbereiten, um damit deja-dup und rsync zu demonstrieren.
  
 
 ++ FRAGE DES MONATS, SCHLUSS -- Aufnahme 
 && Bumper: Frage
  - Fragen aus Mails und reddit beantworten
  - Wayland-Screenshot-Contest-Auswertung
-   // TODO  neuer Contest
+   // TODO  neuer Contest? Bisher keine Einsendungen, daher den Preis um eine weitere Sache erweitern?
 
 
 
