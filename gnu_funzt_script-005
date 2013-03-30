@@ -18,6 +18,7 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
  - Distribution des Monats
  - Musix GNU/Linux
    http://www.musix.org.ar/en/index.html
+   Download-Mirror: http://ftp.cc.uoc.gr/mirrors/linux/musix/isos/ 
 
  - Die Applikation des Monats 
  - 
@@ -65,7 +66,7 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
  - Backup unter Linux
    rsync
    deja-dup (duplicity)
-   // TODO  @André: Verzeichnis (eventuell in einer VM) mit Dateien zum Sichern und Löschen vorbereiten, um damit deja-dup und rsync zu demonstrieren.
+   // TODO  @André: Verzeichnis (eventuell in einer VM) mit Dateien zum Sichern und Löschen vorbereiten, um damit deja-dup und rsync zu demonstrieren. .. ERLEDIGT, älteren Episoden-Ordner
  
 
 ++ FRAGE DES MONATS, SCHLUSS -- Aufnahme 
