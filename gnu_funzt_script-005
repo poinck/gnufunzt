@@ -3,16 +3,16 @@
 Diese Sendung wird ermöglicht durch GNU Software.
 
 
-++ INTRO -- Aufnahme 
-Diesmal bei "GNU funzt!": 
-Schaltet ein und findet's raus, 
-PLUS: 
+++ INTRO -- Aufnahme 203, Take 2 (letzter Versuch)
+Diesmal bei "GNU funzt!": Wir zeigen euch die Zukunft der sicheren und dezentralen Kommunikation mit Retroshare.
+Schaltet ein und findet 'raus, ob Paul seine Bitcoins zurückbekommt.
+PLUS: Eindrücke vom Document Freedom Day.
 
 Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 
 == Bumper: Intro
 
-++ WILLKOMMEN, INHALT  10 min -- Aufnahme 
+++ WILLKOMMEN, INHALT  10 min -- Aufnahme 196?, Take 3
  - Paul/André: Begrüßung
 
  - Distribution des Monats
@@ -21,21 +21,18 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
    Download-Mirror: http://ftp.cc.uoc.gr/mirrors/linux/musix/isos/ 
 
  - Die Applikation des Monats 
- - 
+ - bitcoin-qt
 
-++ GNUTIFUL APPLICATION  3 min -- Aufnahme 
- -  für Android
+++ GNUTIFUL APPLICATION  3 min -- Aufnahme 196?, Take 3
+ - Bitcoin Wallet für Android
 
 
-++ NEUIGKEITEN, NACHRICHTEN -- Aufnahme 
+++ NEUIGKEITEN, NACHRICHTEN -- Aufnahme 197, Take 1
 == Bumper: GNUws!
 // TODO: sammeln
 
  - Document Freedom Day, 27.3.
    http://www.documentfreedom.org/
-   
- - Mir vs. Wayland: gesunder Wettbewerb?
-   http://youtu.be/EfYGjcNmeDY?t=29m07s (Linux Action Show)
    
  - Wayland in Fedora (ab F21 default)
    http://lists.fedoraproject.org/pipermail/devel/2013-March/180546.html
@@ -61,19 +58,18 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
    http://blog.freenode.net/2013/03/bye-bye-pdpc/
  
 
-++ DER TEST  15 min -- Aufnahme 
+++ DER TEST  15 min -- Aufnahme 199, Take 2
 && Bumper: Test
- - Backup unter Linux
-   rsync
-   deja-dup (duplicity)
-   // TODO  @André: Verzeichnis (eventuell in einer VM) mit Dateien zum Sichern und Löschen vorbereiten, um damit deja-dup und rsync zu demonstrieren. .. ERLEDIGT, älteren Episoden-Ordner
+ - Dezentrale Netzwerke
+   retroshare
  
 
-++ FRAGE DES MONATS, SCHLUSS -- Aufnahme 
+++ FRAGE DES MONATS, SCHLUSS -- Aufnahme 201, Take 2
 && Bumper: Frage
- - Fragen aus Mails und reddit beantworten
+ - Paul an André: Kannst du mir die Bitcoins von heut morgen zurücküberweisen
  - Wayland-Screenshot-Contest-Auswertung
-   // TODO  neuer Contest? Bisher keine Einsendungen, daher den Preis um eine weitere Sache erweitern?
+   Preis für den Wayland-Screenshot-Contest erhöht: OpenSuse-CD und Gentoo-Button
+ - André: Wir sehen uns nächsten Monat wieder; dann sitzen wir hier immer noch vor unserer Wiese.
 
 
 
