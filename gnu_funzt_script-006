@@ -34,26 +34,32 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
  - Mozilla setzt neue Browser-Engine ein? Servo statt Gecko
    http://www.heise.de/newsticker/meldung/Mozilla-bastelt-an-neuer-Browser-Engine-1834592.html
  
- - Chrome geht neue Wege; was kommt nach Webkit? Natürlich ein Fork: Blink
+ - Chrome geht neue Wege; was kommt nach Webkit? Natürlich ein Fork: Blink (auch Opera möchte diese neue Rendering-Engine verwenden)
    http://worldofgnome.org/chromium-to-drop-webkit-for-blink/
    http://blog.chromium.org/2013/04/blink-rendering-engine-for-chromium.html
    
  - Regelmäßige Releases von Wayland und Weston im Anmarsch:
    http://www.linux-magazin.de/NEWS/Version-1.1.0-von-Wayland-und-Weston-im-Anmarsch
    
+ - Jolla portiert Wayland für Android-GPU-Treiber
+   http://tech.slashdot.org/story/13/04/11/2147208/jolla-ports-wayland-to-android-gpu-drivers
+   
  - FreeRDP für Wayland (nach Monaten im trunk verfügbar)
    http://tech.slashdot.org/story/13/04/03/1219239/remote-desktop-backend-merged-into-wayland
    
  - ARM-Gleitkomma-Emulation: Ja, nein, vielleicht?
    http://www.linux-magazin.de/NEWS/Userspace-bedroht-Kernel-ohne-ARM-Gleitkommaemulation
+   
+ - KlyDE: KDE, nur ein bisschen schlanker (neues Projekt von Will Stephenson)
+   https://blogs.kde.org/2013/04/11/hackweek9-lightweight-kde-desktop-project-updated 
  
- - Fedora 19 Alpha verspätet sich; diesmal wegen UEFI
+ x Fedora 19 Alpha verspätet sich; diesmal wegen UEFI
    http://www.muktware.com/5481/fedora-19-alpha-gets-delayed-time-due-uefi
  
 
 ++ DER TEST  15 min -- Aufnahme 
 && Bumper: Test
- - 
+ - Vorschlag: Debian Wheezy
  
 
 ++ FRAGE DES MONATS, SCHLUSS -- Aufnahme 
@@ -61,7 +67,7 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
  - Paul an André: 
  - Wayland-Screenshot-Contest-Auswertung
    Preis für den Wayland-Screenshot-Contest erhöht: OpenSuse-CD und Gentoo-Button
- - 
+ - Ankündigung Berliner Linuxtag
 
 
 
