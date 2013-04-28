@@ -1,34 +1,33 @@
-++ GNU FUNZT -- Aufnahme 113, 117, 119
+++ GNU FUNZT -- Ton=113,117,119
 == Animation: Burst
 Diese Sendung wird ermöglicht durch GNU Software.
 
 
-++ INTRO -- Aufnahme 
-Diesmal bei "GNU funzt!": 
-Schaltet ein und findet 'raus, 
-PLUS: 
+++ INTRO -- Ton=214[x] , Video=69 , Take=1
+Diesmal bei "GNU funzt!": Wir zeigen Euch die Irssi-Alternative Weechat für den Desktop und Android.
+Schaltet ein und findet 'raus, welche Browser-Engine ihr in Zukunft verwenden könnt.
+PLUS: Viel Bewegung in der Wayland-Entwicklung.
 
 Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 
 == Bumper: Intro
 
-++ WILLKOMMEN, INHALT  10 min -- Aufnahme 
+++ WILLKOMMEN, INHALT -- Ton=206[x], Video= , Take=4
  - Paul/André: Begrüßung
 
  - Distribution des Monats
  - Parabola GNU/Linux
    http://parabolagnulinux.org/https/
-  
+
+++ GNUTIFUL APPLICATION -- Ton=208, Video=62, Take=2
  - Die Applikation des Monats 
  - Die irssi-Alternative auf der Konsole: Weechat
    http://www.weechat.org/
-// TODO  André: einarbeiten, testen
-
-++ GNUTIFUL APPLICATION  3 min -- Aufnahme 
+ 
  - Weechat-Remote für Android
    
 
-++ NEUIGKEITEN, NACHRICHTEN -- Aufnahme 
+++ NEUIGKEITEN, NACHRICHTEN -- Ton=210[x], Video=65 , Take=3
 == Bumper: GNUws!
 
  - Mozilla setzt neue Browser-Engine ein? Servo statt Gecko
@@ -38,7 +37,7 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
    http://worldofgnome.org/chromium-to-drop-webkit-for-blink/
    http://blog.chromium.org/2013/04/blink-rendering-engine-for-chromium.html
    
- - Regelmäßige Releases von Wayland und Weston im Anmarsch:
+ x Regelmäßige Releases von Wayland und Weston im Anmarsch:
    http://www.linux-magazin.de/NEWS/Version-1.1.0-von-Wayland-und-Weston-im-Anmarsch
    
  - Jolla portiert Wayland für Android-GPU-Treiber
@@ -46,6 +45,7 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
    
  - FreeRDP für Wayland (nach Monaten im trunk verfügbar)
    http://tech.slashdot.org/story/13/04/03/1219239/remote-desktop-backend-merged-into-wayland
+   http://www.phoronix.com/scan.php?page=news_item&px=MTM0MDg
    
  - ARM-Gleitkomma-Emulation: Ja, nein, vielleicht?
    http://www.linux-magazin.de/NEWS/Userspace-bedroht-Kernel-ohne-ARM-Gleitkommaemulation
@@ -57,12 +57,12 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
    http://www.muktware.com/5481/fedora-19-alpha-gets-delayed-time-due-uefi
  
 
-++ DER TEST  15 min -- Aufnahme 
+++ DER TEST -- Ton=212[x], Video= , Take=2
 && Bumper: Test
- - Vorschlag: Debian Wheezy
+ - Parabola GNU/linux installieren
  
 
-++ FRAGE DES MONATS, SCHLUSS -- Aufnahme 
+++ FRAGE DES MONATS, SCHLUSS -- Ton=213[x] , Video=68 , Take=1
 && Bumper: Frage
  - Paul an André: 
  - Wayland-Screenshot-Contest-Auswertung
