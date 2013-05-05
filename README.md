@@ -1,7 +1,7 @@
 GNU funzt!
 ==========
-/scripte - Scripte zur monatlichen Sendung "GNU funzt!" (GPLv3) 
-/poster - Rohmaterial zum aktuellen offiziellen GNU funzt! Poster
+- /scripte - Scripte zur monatlichen Sendung "GNU funzt!" (GPLv3) 
+- /poster - Rohmaterial zum aktuellen offiziellen GNU funzt! Poster
 
 Erklärungen - "scripte"
 -----------------------
