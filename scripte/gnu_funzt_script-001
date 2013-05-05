@@ -1,0 +1,114 @@
+++ GNU FUNZT -- Aufnahme 113, 117, 119
+== Animation: Burst
+Diese Sendung wird ermöglicht durch GNU Software.
+
+-- Aufnahme 119 (letzter Satz vom ersten Versuch nehmen, sonst alles vom letzten)
+Paul: We are serious Linux Action Show fans
+André: But not anymore
+Paul: Why not?
+André: They moved away from GPL software which absolutly freaked me out.
+
+/*
+Paul: Wir sind ja alte Linux Action Show Fans
+André: Gefällt uns nicht mehr so ganz! Das ganze GPL-Zeugs fehlt
+Paul: Deswegen haben wir das mal geforkt.
+*/
+
+
+++ INTRO -- Aufnahme 129
+/*
+Ist Wayland der nächste Xserver oder müssen wir X11 noch ein bisschen länger ertragen? Schaltet ein und findets raus; ob mich die LEDs im Studio erblinden lassen. PLUS: Unsere Meinung zu Gnome 3.6 und wie du es unter Arch Linux installieren kannst.
+*/
+
+Gelingt es uns tatsächlich Screencaptures von Android aufzunehmen oder müssen wir doch vom Handy abfilmen? Schaltet ein und findets raus; ob uns die LEDs im Studio erblinden lassen. PLUS: Unsere Meinung Slackware und dem neuen Codenamen von Fedora 19
+
+Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
+
+== Bumper: Intro
+
+++ WILLKOMMEN, INHALT -- Aufnahme 121
+Willkommen zur Version 0.1 von "GNU funzt". Mein Name ist Andre und neben mir sitzt Paul.
+ - vielleicht nochmal übers Forken sprechen; geforkt von LAS; was ist das eigentlich?
+ - Paul: dann darauf zu sprechen kommen, warum sich denn gerade die Bildschirmfarbe ändert
+ - André: darauf reagieren und somit die GNU-App des Monats; nämlich redshift.
+
+ - Die Desktopanwendung des Monats
+   redshift 
+   Gramps (mit Linux-Distros) // nächste Sendung
+   
+
+ - Distrobution des Monats (zu Beginn die echten GNU-Distros; ansonsten keine, wenn eine Distro gereviewt wird)
+   http://www.blagblagblag.org/
+
+++ GNUTIFUL APPLICATION -- Aufnahme 122 (bis "nich nich nich") 
+ - yaxim
+   // TODO  versuchen es mit ADB-debug hinzubekommen .. GESCHAFFT
+
+
+++ NEUIGKEITEN, NACHRICHTEN -- Aufnahme 124
+== Bumper: GNUws!
+Neuigkeiten des Monats (Quellen: phoronix, heise, )
+// TODO: sammeln
+
+ - Fedora 18 aufs nächste Jahr verschoben; Sphärische Kuh (FC 18 "spherical cow")
+   http://www.linux-magazin.de/NEWS/Fedora-18-auf-2013-verschoben
+   http://www.heise.de/open/meldung/Fedora-18-auf-Januar-verschoben-1746176.html
+   http://qa.fedoraproject.org/blockerbugs/milestone/18/beta/buglist
+   https://plus.google.com/112917221531140868607/posts/3CMYkUfC5j8 
+   
+ x Nvidia: Open Source Treiber besser als Closed Source? Nicht ganz, nur wenn die Grafikkarte runtergetaktet ist. Fazit: neuere Nvidia-Karten laufen mit dem proprietären Treiber schneller und stabiler. Wer sowas altes hat wie ich, kann auch schön 
+ beim Nouveau-Treiber bleiben. Bessere Speichertaktung erst ab Linux 3.8
+   http://www.phoronix.com/scan.php?page=article&item=nvidia_nouveau_clocks&num=1
+ x neuer proprietärer Treiber R310 besser für Spiele:
+   http://www.heise.de/open/meldung/Nvidia-Neuer-Linux-Treiber-fuer-mehr-Leistung-beim-Spielen-1745377.html
+   
+ x Wayland
+   http://www.phoronix.com/scan.php?page=news_item&px=MTIyMzE
+   
+ - Fedora 20: unser Tipp für den nächsten Codenamen
+   http://www.phoronix.com/scan.php?page=news_item&px=MTIyNDQ (Vorschläge)
+   	// TODO  Artikel zum neuen Codenamen von Fedora 19 raussuchen
+   
+ - Enlightment 17 ab 21. Dezember (die Alpha wurde bereits am 10. November veröffentlicht)
+   http://www.phoronix.com/scan.php?page=news_item&px=MTIyNTQ
+   http://www.heise.de/open/meldung/Erste-Alphaversion-von-Enlightenment-E17-1744556.html (mit Bildschirmfotos)
+   // TODO: Debatte: interessiert uns E17 überhaupt? BSD-Lizenz statt GPL.
+   
+ x Stallmans Lösung für das Softwarepartent-Desaster
+   http://www.heise.de/open/meldung/Stallman-schlaegt-Ausweg-aus-dem-Softwarepatent-Desaster-vor-1742814.html
+   // TODO: finden wir hier genug Material um das kurz in der Sendung anzudiskutieren?
+   
+ - Gewährleistung für gerootete Smartphones: EU-Recht ist entsprechend auslegbar, wie es die FSFE festgestellt hat, wenn keine BEschädigung durch das Rooten aufgetreten ist.
+   http://www.heise.de/open/meldung/FSFE-Pflicht-zur-Gewaehrleistung-auch-bei-gerooteten-Smartphones-1743273.html
+   
+ - Linus Torvalds wieder bei Gnome 3? Wir findens schräg!
+   http://worldofgnome.org/linus-torvalds-is-actually-back-on-gnome-3/ 
+   
+ - Linus Torvalds ließt kein Quellcode mehr; liegt das daran, dass er nun auf Gnome 3 umgestiegen ist?
+   http://www.heise.de/open/artikel/Linus-Torvalds-Quellcode-lese-ich-nicht-mehr-1750222.html
+   
+
+++ DER TEST -- Aufnahme 125
+&& Bumper: // TODO: Erik hat eine Sound-Idee
+ - Slackware (Paketmanager, Was unterscheidet Slackware von den anderen)
+   die älteste Linux-Distrobution der Welt
+ 
+
+++ FRAGE DES MONATS, SCHLUSS -- Aufnahme 126, 127, 128 
+&& Bumper: // TODO: André nimmt Sound mit Gitarre auf .. DONE
+ - Paul: Warum stellt mein verdammtes XPDF die GUI auf Chinesisch dar? Wenn ihr die Antwort wisst, dann einfach hier bei Youtube kommentieren oder wo auch immer ihr das Video gefunden hat.
+// TODO: Screenshot von Pauls xpdf
+ - Das nächste Mal: raspberry pi, wenn er denn dieses Jahr noch ankommt.
+ - wir benutzen github zur öffentlichen Entwicklung des Sendungsscripts und sind somit völlig transparent für euch; kein DRM, und alles GPLed bzw. frei verfügbar zum weiterverteilen und verbreiten. (diesen Text eventuell nochmal überarbeiten)
+ 
+G'nug für heute. Forkt das! UND: Bis zum nächsten Mal bei "GNU funzt!"
+
+
+++ ABSPANN
+(Sound vom Anfang)
+ - mit Welcher Software wurde alles erstellt
+ - Lizenz CC-BY-SA, hilfswiese CC-BY
+ - Werbung für Linuxworks! mit URL
+ - Artwork-Credits
+ - github-Link
+ - Musik: Regeltarif, Erik

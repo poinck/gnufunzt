@@ -1,0 +1,74 @@
+++ GNU FUNZT -- Aufnahme 113, 117, 119
+== Animation: Burst
+Diese Sendung wird ermöglicht durch GNU Software.
+
+
+++ INTRO -- Aufnahme 193, Take 3
+Diesmal bei "GNU funzt!": Warum User besser nicht an der Uhr drehen sollten und was in unserem Podcast noch so gedreht wird. 
+Schaltet ein und findet's raus, wer oder was uns nach Chemnitz bringt.
+PLUS: Richards Antwort auf Marks Antwort auf Richards Aussage.
+
+Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
+
+== Bumper: Intro
+
+++ WILLKOMMEN, INHALT  10 min -- Aufnahme 183 (ohne Distro), 185 (distro-2.ogv)
+ - Paul/André: Community-Events ankündigen: CLT. 16./17.
+
+ - Die Applikation des Monats 
+ - Empathy und KDEtelepathy (Telepathy)
+ 
+ - Distribution des Monats
+ - gNewSense
+   http://www.gnewsense.org/
+   
+
+++ GNUTIFUL APPLICATION  3 min -- Aufnahme 186
+ - OsmAnd: Freie Navigation für Android
+
+
+++ NEUIGKEITEN, NACHRICHTEN -- Aufnahme 
+== Bumper: GNUws!
+// TODO: sammeln
+   
+ - Die Entwicklung von Enlightment 18 legt los; ein Release-Termin wurde noch nicht genannt (Prognose?)
+   http://www.heise.de/open/meldung/Entwicklung-von-Enlightenment-18-startet-1795764.html
+   
+ - Gnome-Apps; sind nun bald Abhängikeitsprobleme adé oder kommen da Probleme mit bestehenden Paketmanagern auf uns zu?
+   http://www.heise.de/newsticker/meldung/Gnome-Entwickler-planen-Linux-Apps-1797503.html
+   
+ - KDE 4.10: schneller und mit Applikationsmenüs, die uns an Gnome3 erinnern.
+   http://www.muktware.com/5186/kde-410-released-fastest-kde-ever
+   
+ - Richard Stallman: Wird Ubuntu Phone Spyware und unfreie Software enthalten? Schätzen wir Bequemlichkeit mehr als Freiheit?
+   http://www.muktware.com/videos/5227/richard-stallman-we-need-teach-canonical-lesson
+   http://www.youtube.com/watch?v=DXnfa0H30L4
+   
+ - Linux-Rootkit missbraucht SSH-Dienst
+   http://www.heise.de/newsticker/meldung/Linux-Rootkits-missbrauchen-SSH-Dienst-1810406.html
+   
+ - sudo 1.6 bis 1.8 von Authentifizierungslücke betroffen. Viele Distributionen verlangen zum Ändern der Uhrzeit allerdings ein Passwort, wodurch dann kein Problem besteht.
+   André: Der Grund, warum ich kein "sudo" benutze. 
+   http://www.sudo.ws/sudo/alerts/epoch_ticket.html 
+   
+
+++ DER TEST  15 min -- Aufnahme 
+&& Bumper: Test
+ - Wayland
+ 
+
+++ FRAGE DES MONATS, SCHLUSS -- Aufnahme 190
+&& Bumper: Frage
+ - Fragen aus Mails und reddit beantworten
+ - Wayland-Screenshot-Contest
+
+
+
+++ ABSPANN
+(Sound vom Anfang)
+ - mit Welcher Software wurde alles erstellt
+ - Lizenz CC-BY-SA, hilfswiese CC-BY
+ - Werbung für Linuxworks! mit URL
+ - Artwork-Credits
+ - github-Link
+ - Musik: Regeltarif, Erik

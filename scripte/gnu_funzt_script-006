@@ -1,0 +1,75 @@
+++ GNU FUNZT -- Ton=113,117,119
+== Animation: Burst
+Diese Sendung wird ermöglicht durch GNU Software.
+
+
+++ INTRO -- Ton=214[x] , Video=69 , Take=1
+Diesmal bei "GNU funzt!": Wir zeigen Euch die Irssi-Alternative Weechat für den Desktop und Android.
+Schaltet ein und findet 'raus, welche Browser-Engine ihr in Zukunft verwenden könnt.
+PLUS: Viel Bewegung in der Wayland-Entwicklung.
+
+Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
+
+== Bumper: Intro
+
+++ WILLKOMMEN, INHALT -- Ton=206[x], Video=60 , Take=4
+ - Paul/André: Begrüßung
+
+ - Distribution des Monats
+ - Parabola GNU/Linux
+   http://parabolagnulinux.org/https/
+
+++ GNUTIFUL APPLICATION -- Ton=208, Video=62, Take=2
+ - Die Applikation des Monats 
+ - Die irssi-Alternative auf der Konsole: Weechat
+   http://www.weechat.org/
+ 
+ - Weechat-Remote für Android
+   
+
+++ NEUIGKEITEN, NACHRICHTEN -- Ton=210[x], Video=65 , Take=3
+== Bumper: GNUws!
+
+ - Mozilla setzt neue Browser-Engine ein? Servo statt Gecko
+   http://www.heise.de/newsticker/meldung/Mozilla-bastelt-an-neuer-Browser-Engine-1834592.html
+ 
+ - Chrome geht neue Wege; was kommt nach Webkit? Natürlich ein Fork: Blink (auch Opera möchte diese neue Rendering-Engine verwenden)
+   http://worldofgnome.org/chromium-to-drop-webkit-for-blink/
+   http://blog.chromium.org/2013/04/blink-rendering-engine-for-chromium.html
+   
+ - Jolla portiert Wayland für Android-GPU-Treiber
+   http://tech.slashdot.org/story/13/04/11/2147208/jolla-ports-wayland-to-android-gpu-drivers
+   
+ - FreeRDP für Wayland (nach Monaten im trunk verfügbar)
+   http://tech.slashdot.org/story/13/04/03/1219239/remote-desktop-backend-merged-into-wayland
+   http://www.phoronix.com/scan.php?page=news_item&px=MTM0MDg
+   
+ - ARM-Gleitkomma-Emulation: Ja, nein, vielleicht?
+   http://www.linux-magazin.de/NEWS/Userspace-bedroht-Kernel-ohne-ARM-Gleitkommaemulation
+   
+ - KlyDE: KDE, nur ein bisschen schlanker (neues Projekt von Will Stephenson)
+   https://blogs.kde.org/2013/04/11/hackweek9-lightweight-kde-desktop-project-updated 
+ 
+
+++ DER TEST -- Ton=212[x], Video= , Take=2
+&& Bumper: Test
+ - Parabola GNU/linux installieren
+ 
+
+++ FRAGE DES MONATS, SCHLUSS -- Ton=213[x] , Video=68 , Take=1
+&& Bumper: Frage
+ - Paul an André: 
+ - Wayland-Screenshot-Contest-Auswertung
+   Preis für den Wayland-Screenshot-Contest erhöht: OpenSuse-CD und Gentoo-Button
+ - Ankündigung Berliner Linuxtag
+
+
+
+++ ABSPANN
+(Sound vom Anfang)
+ - mit Welcher Software wurde alles erstellt
+ - Lizenz CC-BY-SA, hilfswiese CC-BY
+ - Werbung für Linuxworks! mit URL
+ - Artwork-Credits
+ - github-Link
+ - Musik: Regeltarif, Erik
