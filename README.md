@@ -1,9 +1,10 @@
 GNU funzt!
 ==========
-Scripte zur monatlichen Sendung "GNU funzt!" (GPLv3)
+/scripte - Scripte zur monatlichen Sendung "GNU funzt!" (GPLv3)
+/poster - Rohmaterial zum aktuellen offiziellen GNU funzt! Poster
 
-Erklärungen
------------
-- alte Sendungen werden mit in "_archiv" kopiert, sobald es in / unübersichtlich wird
+Erklärungen - "scripte"
+-----------------------
+- alte Sendungen werden mit in "_archiv" kopiert, sobald es in /scripte unübersichtlich wird
 
 
