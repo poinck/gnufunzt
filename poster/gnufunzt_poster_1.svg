@@ -139,9 +139,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.31042861"
-     inkscape:cx="200.14198"
-     inkscape:cy="1080.8961"
+     inkscape:zoom="0.62085723"
+     inkscape:cx="647.71096"
+     inkscape:cy="466.28987"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -168,7 +168,7 @@
        id="guide4033" />
     <sodipodi:guide
        orientation="0,1"
-       position="968.01644,70.869756"
+       position="827.8876,-150.59823"
        id="guide4056" />
     <inkscape:grid
        type="xygrid"
@@ -225,9 +225,17 @@
        x="-28.284323"
        y="-1074.615"
        ry="0" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect3078-4-7"
+       width="1647.3516"
+       height="263.60739"
+       x="-110.81066"
+       y="979.20306"
+       transform="matrix(0.99999998,-1.9505786e-4,2.0775367e-4,0.99999998,0,0)" />
     <g
        id="g924"
-       transform="matrix(1.2355394,0,0,1.2355394,94.416134,-1498.8442)">
+       transform="matrix(1.2355394,0,0,1.2355394,94.416134,-1496.8442)">
       <text
          transform="matrix(1.8012958,0,0,1.5245144,-422.58434,-357.64545)"
          sodipodi:linespacing="73.000002%"
@@ -341,50 +349,6 @@
          style="font-size:100.37677002px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.61780953;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"><tspan
    style="fill:#525252;fill-opacity:1;stroke:#000000;stroke-width:2.61780953;stroke-opacity:1"
    id="tspan5682">GNµ's</tspan> nach Lust und Laune</tspan></text>
-    <g
-       id="g3917"
-       transform="translate(1573.9876,50.112485)">
-      <rect
-         transform="matrix(0.99276048,-0.1201109,0.1201109,0.99276048,0,0)"
-         y="1030.4064"
-         x="-146.94415"
-         height="253.14282"
-         width="1532.8571"
-         id="rect3078-4"
-         style="fill:#55bcd9;fill-opacity:1;stroke:none" />
-      <rect
-         transform="matrix(0.99276048,-0.1201109,0.1201109,0.99276048,0,0)"
-         y="1058.3627"
-         x="-81.493042"
-         height="253.14282"
-         width="1532.8571"
-         id="rect3078-4-7"
-         style="fill:#2a9dbd;fill-opacity:1;stroke:none" />
-      <rect
-         transform="matrix(0.99276048,-0.1201109,0.1201109,0.99276048,0,0)"
-         y="1088.4644"
-         x="142.35327"
-         height="253.14282"
-         width="1532.8571"
-         id="rect3078-4-7-6"
-         style="fill:#1f758d;fill-opacity:1;stroke:none" />
-      <rect
-         transform="matrix(0.99276048,-0.1201109,0.1201109,0.99276048,0,0)"
-         y="1117.7814"
-         x="124.702"
-         height="253.14282"
-         width="1532.8571"
-         id="rect3078-4-7-6-9"
-         style="fill:#103d4a;fill-opacity:1;stroke:none" />
-      <rect
-         transform="matrix(0.99276048,-0.1201109,0.1201109,0.99276048,0,0)"
-         y="1150.4423"
-         x="458.0347"
-         height="253.14282"
-         width="1532.8571"
-         id="rect3078-4-7-6-9-9"
-         style="fill:#525252;fill-opacity:1;stroke:none" />
-    </g>
     <text
        xml:space="preserve"
        style="font-size:21.03000832px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#662d60;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
@@ -400,7 +364,7 @@
          id="tspan5940">http://gnufunzt.de</tspan></text>
     <g
        id="g4712"
-       transform="matrix(1.4956783,0,0,1.4956783,-370.7236,128.51937)">
+       transform="matrix(1.878951,0.24617362,-0.24617362,1.878951,-667.51747,-159.59083)">
       <text
          inkscape:transform-center-y="-40.283372"
          inkscape:transform-center-x="-28.745471"
@@ -725,28 +689,28 @@
     <text
        xml:space="preserve"
        style="font-size:44.90055847px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.95999995;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
-       x="75.638252"
-       y="980.27979"
+       x="75.676773"
+       y="959.15833"
        id="text3899-1-28-2-6"
        sodipodi:linespacing="125%"
        transform="matrix(0.99853809,-0.00287413,0.00182069,1.0014588,0,0)"><tspan
          sodipodi:role="line"
-         x="75.638252"
-         y="980.27979"
+         x="75.676773"
+         y="959.15833"
          style="font-size:44.90055847px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
          id="tspan4658-8">http://gnufunzt.de</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:44.90055847px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.95999995;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
-       x="874.63501"
-       y="982.57281"
+       style="font-size:44.90055847000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.95999995000000005;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
+       x="874.3252"
+       y="959.50641"
        id="text3899-1-28-2-6-0"
        sodipodi:linespacing="125%"
-       transform="matrix(0.99853809,-0.00287413,0.00182069,1.0014588,0,0)"><tspan
+       transform="matrix(0.99854183,9.1083579e-4,-0.00197534,1.0014585,0,0)"><tspan
          sodipodi:role="line"
-         x="874.63501"
-         y="982.57281"
-         style="font-size:44.90055847px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
+         x="874.3252"
+         y="959.50641"
+         style="font-size:44.90055847000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
          id="tspan4658-8-6">http://youtube.com/gnufunzt</tspan></text>
   </g>
 </svg>
