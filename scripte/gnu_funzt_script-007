@@ -41,6 +41,13 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
    
  - Systemd 203 in Fedora 19: viele neue Features (Lennart Poettering)
    http://lists.freedesktop.org/archives/systemd-devel/2013-May/010907.html
+   
+ - Gnome-Bugzilla-Admins löschten Kommentar und verbannten User:
+   bei Gnome-Terminal 3.8 fehlt die Möglichkeit, den Hintergrund transparent zu
+   setzen.
+   https://bugzilla.gnome.org/show_bug.cgi?id=698544 (Thread)
+   Bild mit gelöschtem Kommentar siehe "130513 gnome terminal wontfix bug.png"
+   Bild vom Ban "130513 gnome terminal 3.8 bugzilla ban.png"
  
 
 ++ DER TEST -- Ton= [ ], Video= , Take=
