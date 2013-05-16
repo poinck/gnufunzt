@@ -14,7 +14,7 @@
    height="2104.7244"
    id="svg2984"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="gnufunzt_poster_1.svg"
    inkscape:export-filename="/home/ich/gits/gnufunzt/poster/130514 gnufunzt_poster_1.png"
    inkscape:export-xdpi="90"
@@ -137,13 +137,13 @@
        x2="-238.51253"
        y2="363.03256"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,1.1212159,0,130.26064)" />
+       gradientTransform="matrix(1,0,0,1.1212159,-4.7046007e-7,130.25838)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3852"
        id="radialGradient4727"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.27295065,0,0,0.21732913,453.60221,570.12812)"
+       gradientTransform="matrix(0.27295065,0,0,0.21732913,453.60221,570.12654)"
        spreadMethod="reflect"
        cx="868.43549"
        cy="-580.95367"
@@ -190,7 +190,7 @@
        x2="1233.7356"
        y2="890.8548"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,2.4609972,0,-1670.4573)" />
+       gradientTransform="matrix(1,0,0,2.4609972,-6.5333779e-8,-1670.4596)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -200,20 +200,21 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.31042862"
-     inkscape:cx="24.937201"
-     inkscape:cy="669.45491"
-     inkscape:document-units="px"
+     inkscape:cx="651.31033"
+     inkscape:cy="309.71381"
+     inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      borderlayer="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1149"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
      inkscape:window-x="0"
      inkscape:window-y="22"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     units="cm">
     <sodipodi:guide
        orientation="1,0"
        position="744,230"
@@ -232,11 +233,35 @@
        id="guide4056" />
     <inkscape:grid
        type="xygrid"
-       id="grid4227" />
+       id="grid4227"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
     <sodipodi:guide
        orientation="0,1"
        position="1157.1428,77.446567"
        id="guide4017" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="744,141.73951"
+       id="guide3146" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="823.05556,161.87296"
+       id="guide3148" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="2502.9909,2003.6812"
+       id="guide3150" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1410.9524,518.63775"
+       id="guide3152" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="-235.15873,1198.3431"
+       id="guide3154" />
   </sodipodi:namedview>
   <metadata
      id="metadata2989">
@@ -246,7 +271,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -254,7 +279,7 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,1052.3622)">
+     transform="translate(0,1052.3646)">
     <rect
        style="fill:#95d5e7;fill-opacity:1;stroke:none"
        id="rect3078"
@@ -284,10 +309,10 @@
     <rect
        style="fill:url(#linearGradient5983);fill-opacity:1;stroke:none"
        id="rect5975"
-       width="1549.978"
-       height="2162.8113"
-       x="-28.284323"
-       y="-1074.615"
+       width="1756.1445"
+       height="2265.8945"
+       x="-131.3676"
+       y="-1177.6982"
        ry="0" />
     <g
        id="g4712-7"
@@ -389,14 +414,6 @@
          id="rect3850-3"
          style="fill:#959595;fill-opacity:0.102459;stroke:#662d60;stroke-width:11.23951817;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       id="rect3078-4-7"
-       width="1647.3516"
-       height="263.60739"
-       x="-75.439362"
-       y="1285.2384"
-       transform="matrix(0.99999998,-1.9505786e-4,2.0775367e-4,0.99999998,0,0)" />
     <g
        id="g924"
        transform="matrix(1.2355394,0,0,1.2355394,94.416134,-1496.8442)">
@@ -491,28 +508,6 @@
            id="tspan820"
            style="stroke:#d7e3e7;stroke-width:2.12598419;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.37795272, 6.37795272;stroke-dashoffset:0">funzt!</tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:100.37677002px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.61780953;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
-       x="2159.1643"
-       y="-505.46344"
-       id="text3899-1"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.99853809,-0.00287413,0.00182069,1.0014588,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan3901-1"
-         x="2159.1643"
-         y="-505.46344"
-         style="font-size:100.37677002px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.61780953;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold">monatliche <tspan
-   style="fill:#525252;fill-opacity:1;stroke-width:2.61780953"
-   id="tspan5680">Episoden</tspan></tspan><tspan
-         sodipodi:role="line"
-         x="2159.1643"
-         y="-379.99249"
-         id="tspan3903-6"
-         style="font-size:100.37677002px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.61780953;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"><tspan
-   style="fill:#525252;fill-opacity:1;stroke:#000000;stroke-width:2.61780953;stroke-opacity:1"
-   id="tspan5682">GNµ's</tspan> nach Lust und Laune</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:21.03000832px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#662d60;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
@@ -640,17 +635,17 @@
          id="tspan6138">Diese Sendung </tspan><tspan
          sodipodi:role="line"
          x="2493.5103"
-         y="-977.0827"
+         y="-977.08264"
          style="font-size:39.07707214px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#525252;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
          id="tspan6148">wird ermöglicht </tspan><tspan
          sodipodi:role="line"
          x="2493.5103"
-         y="-928.23633"
+         y="-928.23627"
          style="font-size:39.07707214px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#525252;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
          id="tspan6150">durch </tspan><tspan
          sodipodi:role="line"
          x="2484.8857"
-         y="-879.39001"
+         y="-879.38995"
          style="font-size:39.07707214px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#525252;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
          id="tspan6146">GNU-Software</tspan></text>
     <text
@@ -761,34 +756,6 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:62.89702606px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.95999995;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
-       x="-661.57709"
-       y="-1309.0714"
-       id="text3899-1-28-4"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.99853809,-0.00287413,0.00182069,1.0014588,0,0)"><tspan
-         sodipodi:role="line"
-         x="-654.63629"
-         y="-1309.0714"
-         style="font-size:62.89702606px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
-         id="tspan5874-5"><tspan
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           id="tspan4079-0">monatliche</tspan><tspan
-           style="stroke:#000000;stroke-width:1.60000002;stroke-opacity:1"
-           id="tspan4143-0"> EPISODEN </tspan></tspan><tspan
-         sodipodi:role="line"
-         x="-661.57709"
-         y="-1230.4502"
-         style="font-size:62.89702606px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
-         id="tspan3926-6"><tspan
-           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.60000002;stroke-opacity:1"
-           id="tspan4105-4">&amp;</tspan><tspan
-           style="stroke:#000000;stroke-width:1.60000002;stroke-opacity:1"
-           id="tspan4145-4"> MIKRO-EPISODEN</tspan><tspan
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           id="tspan4103-0"> jede Woche</tspan></tspan></text>
-    <text
-       xml:space="preserve"
        style="font-size:78.92325592px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;opacity:0.95999995;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
        x="770.56201"
        y="145.24361"
@@ -849,28 +816,28 @@
          style="font-size:72.78343964px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.1497581;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
          id="tspan4747">&amp; so viel mehr, jeden Monat!</tspan></text>
     <rect
-       style="fill:url(#linearGradient4011);fill-opacity:1;stroke:none;opacity:0.74193548"
+       style="opacity:0.74193552;fill:url(#linearGradient4011);fill-opacity:1;stroke:none"
        id="rect4003"
-       width="1712.7201"
-       height="817.26819"
-       x="-36.337551"
+       width="1806.1393"
+       height="876.85828"
+       x="-129.75677"
        y="326.0997" />
     <text
        xml:space="preserve"
-       style="font-size:47.89983749px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6d3767;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
-       x="75.766678"
-       y="909.80634"
+       style="font-size:41.96130753px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6d3767;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
+       x="73.33432"
+       y="911.11896"
        id="text3899-1-28-2-6"
        sodipodi:linespacing="125%"
        transform="matrix(0.99853809,-0.00287413,0.00182069,1.0014588,0,0)"><tspan
          sodipodi:role="line"
-         x="75.766678"
-         y="909.80634"
-         style="font-size:47.89983749px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#6d3767;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
+         x="73.33432"
+         y="911.11896"
+         style="font-size:41.96130753px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#6d3767;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
          id="tspan4658-8">http://gnufunzt.de</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:39.84560013px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
+       style="font-size:39.84560013px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6d3767;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
        x="910.14758"
        y="908.7616"
        id="text3899-1-28-2-6-0"
@@ -879,7 +846,7 @@
          sodipodi:role="line"
          x="910.14758"
          y="908.7616"
-         style="font-size:39.84560013px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
+         style="font-size:39.84560013px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#6d3767;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web Bold"
          id="tspan4658-8-6">http://youtube.com/gnufunzt</tspan></text>
     <g
        id="g4712-7-0"
@@ -1000,7 +967,7 @@
    id="tspan4042">GNU</tspan>-Software.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:39.84560013000000112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6d3767;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web"
+       style="font-size:39.84560013px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6d3767;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web"
        x="1248.6744"
        y="972.36011"
        id="text3899-1-28-2-6-0-0-6"
@@ -1009,7 +976,7 @@
          sodipodi:role="line"
          x="1248.6744"
          y="972.36011"
-         style="font-size:39.84560013000000112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#6d3767;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web"
+         style="font-size:39.84560013px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#6d3767;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web"
          id="tspan4658-8-6-4-7">CC-BY-SA</tspan></text>
   </g>
 </svg>
