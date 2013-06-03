@@ -30,7 +30,7 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 ++ NEUIGKEITEN, NACHRICHTEN -- Ton= [ ], Video= , Take=
 == Bumper: GNUws!
 
- - Ubuntu baut neuen Paket-Manager "App Installer"
+ x Ubuntu baut neuen Paket-Manager "App Installer"
    https://lists.ubuntu.com/archives/ubuntu-devel/2013-May/037074.html
    
  - Debian 6 im Weltraum. Meanwhile auf der Erde: Wheezy
@@ -39,10 +39,10 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
  - die größte Owncloud auf der Welt findest du in Chemnitz
    http://www.heise.de/newsticker/meldung/Riesen-Wolke-an-der-TU-Berlin-1859537.html
    
- - Systemd 203 in Fedora 19: viele neue Features (Lennart Poettering)
+ x Systemd 203 in Fedora 19: viele neue Features (Lennart Poettering)
    http://lists.freedesktop.org/archives/systemd-devel/2013-May/010907.html
    
- - Gnome-Bugzilla-Admins löschten Kommentar und verbannten User:
+ x Gnome-Bugzilla-Admins löschten Kommentar und verbannten User:
    bei Gnome-Terminal 3.8 fehlt die Möglichkeit, den Hintergrund transparent zu
    setzen.
    https://bugzilla.gnome.org/show_bug.cgi?id=698544 (Thread)
@@ -54,17 +54,44 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
    
  - Fairphone Vorverkauf
    http://buy-a-phone-start-a-movement.fairphone.com/fairphone.html 
+   
+ - München bleibt bei Linux
+   http://www.heise.de/newsticker/meldung/LiMux-Muenchen-bleibt-bei-Linux-1867784.html
+   
+ - Tizen Shell, eine angepasste Gnome Shell als MeeGo-Nachfolger
+   http://www.heise.de/open/meldung/Intel-zeigt-Tizen-mit-Gnome-3-1869205.html
+   
+ - Gnome Shell auf dem Nexus 4 dank Freedreno
+   http://www.phoronix.com/scan.php?page=news_item&px=MTM4Mjg
+   
+ - Pidora, Fedora für den Raspberry Pi
+   http://pidora.ca/
+   
+ - Fedora lässt die Katze aus dem Sack, F19 beta:
+   https://fedoraproject.org/wiki/F19_Beta_release_announcement?stF19b
+   
+ - Samsung stellt Kamera-Firmware unter die GPL
+   http://www.heise.de/newsticker/meldung/Samsung-legt-Kamera-Firmware-offen-1869419.html
+   
+ - Mal eben das Wayland-Backend einschalten (Fedora)
+   http://worldofgnome.org/easily-try-gtk-under-wayland-in-fedora-19/
+   
+ - KWin mit Weston starten
+   http://blog.martin-graesslin.com/blog/2013/05/kwin-running-in-weston/
  
 
 ++ DER TEST -- Ton= [ ], Video= , Take=
-&& Bumper: Test
+== Bumper: Test
  - 
  
 
 ++ FRAGE DES MONATS, SCHLUSS -- Ton= [ ] , Video= , Take=
-&& Bumper: Frage
+== Bumper: Frage
  - Wayland-Screenshot-Contest-Auswertung
    Preis für den Wayland-Screenshot-Contest erhöht: OpenSuse-CD und Gentoo-Button, Poster
+   
+ - Zuschauerfragen:
+   NEU: siehe "zuschauerfragen"
 
 
 ++ ABSPANN
