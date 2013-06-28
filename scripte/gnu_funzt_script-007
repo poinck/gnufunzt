@@ -24,7 +24,8 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
  - 
  
  - Die Android-App des Monats
- - 
+ - VLC
+   // TODO  Android x86 in einer VM capturen?
    
 
 ++ NEUIGKEITEN, NACHRICHTEN -- Ton= [ ], Video= , Take=
@@ -92,7 +93,15 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 
 ++ DER TEST -- Ton= [ ], Video= , Take=
 == Bumper: Test
- - 
+ - Privatsphäre-Tools: GPG
+   Kleopatra
+   Seahorse
+   gpg-key erstellen in der Kommandozeile
+   Nachrichten über Bitcoin-Blockchain
+   Dateien aus dem Filemanager verschlüsselm
+   // TODO  Nautilus-Extension suchen, die mit Dateien GPG verschlüsseln kann 
+   
+ - Suchmaschinen-Alternativen?
  
 
 ++ FRAGE DES MONATS, SCHLUSS -- Ton= [ ] , Video= , Take=
@@ -102,6 +111,9 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
    
  - Zuschauerfragen:
    NEU: siehe "zuschauerfragen"
+   
+ - neue Frage von Paul:
+   exit bei Bash-Scripten; STRG+D? 
 
 
 ++ ABSPANN
