@@ -1,0 +1,123 @@
+++ GNU FUNZT -- Ton=113,117,119
+== Animation: Burst
+Diese Sendung wird ermöglicht durch GNU Software.
+
+
+++ INTRO -- Ton= [ ] , Video= , Take=
+Diesmal bei "GNU funzt!": 
+Schaltet ein und findet 'raus, 
+PLUS: 
+
+Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
+
+== Bumper: Intro
+
+++ WILLKOMMEN, INHALT -- Ton= [ ], Video= , Take=
+ - Paul/André: Begrüßung
+
+ - Distribution des Monats
+ - Trisquel GNU/Linux
+   http://trisquel.info/ 
+
+++ GNUTIFUL APPLICATION -- Ton= [ ], Video=, Take=
+ - Die Applikation des Monats 
+ - 
+ 
+ - Die Android-App des Monats
+ - VLC
+   // TODO  Android x86 in einer VM capturen?
+   
+
+++ NEUIGKEITEN, NACHRICHTEN -- Ton= [ ], Video= , Take=
+== Bumper: GNUws!
+
+ x Ubuntu baut neuen Paket-Manager "App Installer"
+   https://lists.ubuntu.com/archives/ubuntu-devel/2013-May/037074.html
+   
+ - Debian 6 im Weltraum. Meanwhile auf der Erde: Wheezy
+   http://www.linux-magazin.de/NEWS/Keine-Science-Fiction-Iron-Man-Robonauten-Linux-Desktops-auf-der-ISS
+   
+ - die größte Owncloud auf der Welt findest du in Chemnitz
+   http://www.heise.de/newsticker/meldung/Riesen-Wolke-an-der-TU-Berlin-1859537.html
+   
+ x Systemd 203 in Fedora 19: viele neue Features (Lennart Poettering)
+   http://lists.freedesktop.org/archives/systemd-devel/2013-May/010907.html
+   
+ x Gnome-Bugzilla-Admins löschten Kommentar und verbannten User:
+   bei Gnome-Terminal 3.8 fehlt die Möglichkeit, den Hintergrund transparent zu
+   setzen.
+   https://bugzilla.gnome.org/show_bug.cgi?id=698544 (Thread)
+   Bild mit gelöschtem Kommentar siehe "_tmp/130513 gnome terminal wontfix bug.png"
+   Bild vom Ban "_tmp/130513 gnome terminal 3.8 bugzilla ban.png"
+   
+ - Blender 2.67: Freestyle Renderer
+   http://worldofgnome.org/blender-2-67-is-free-styling/
+   
+ - Fairphone Vorverkauf
+   http://buy-a-phone-start-a-movement.fairphone.com/fairphone.html 
+ - Mittlerweile fast 10.000 verkauft
+   
+ - München bleibt bei Linux
+   http://www.heise.de/newsticker/meldung/LiMux-Muenchen-bleibt-bei-Linux-1867784.html
+   
+ - Tizen Shell, eine angepasste Gnome Shell als MeeGo-Nachfolger
+   http://www.heise.de/open/meldung/Intel-zeigt-Tizen-mit-Gnome-3-1869205.html
+   
+ - Gnome Shell auf dem Nexus 4 dank Freedreno
+   http://www.phoronix.com/scan.php?page=news_item&px=MTM4Mjg
+   
+ - Pidora, Fedora für den Raspberry Pi
+   http://pidora.ca/
+   
+ - Fedora lässt die Katze aus dem Sack, F19 beta:
+   https://fedoraproject.org/wiki/F19_Beta_release_announcement?stF19b
+   
+ - Samsung stellt Kamera-Firmware unter die GPL
+   http://www.heise.de/newsticker/meldung/Samsung-legt-Kamera-Firmware-offen-1869419.html
+   
+ - Mal eben das Wayland-Backend einschalten (Fedora)
+   http://worldofgnome.org/easily-try-gtk-under-wayland-in-fedora-19/
+   
+ - KWin mit Weston starten
+   http://blog.martin-graesslin.com/blog/2013/05/kwin-running-in-weston/
+   
+ - neues Design für Firefox 25
+   https://wiki.mozilla.org/Firefox/Features/Theme_Refinement_and_Evolution_%28Australis%29
+   
+ - PulseAudio 4.0
+   http://worldofgnome.org/pulse-audio-4-0-louder-than-ever/
+   
+ - Hedgewars 0.9.19: das größte Minor-Release, das wir je gesehen haben
+   http://worldofgnome.org/hedgewars-0-9-19-bring-the-freezer/
+ 
+
+++ DER TEST -- Ton= [ ], Video= , Take=
+== Bumper: Test
+ - Privatsphäre-Tools: GPG
+   Kleopatra
+   Seahorse
+   gpg-key erstellen in der Kommandozeile
+   Nachrichten über Bitcoin-Blockchain
+   Dateien aus dem Filemanager verschlüsselm
+   // TODO  Nautilus-Extension suchen, die mit Dateien GPG verschlüsseln kann 
+   
+ - Suchmaschinen-Alternativen?
+ 
+
+++ FRAGE DES MONATS, SCHLUSS -- Ton= [ ] , Video= , Take=
+== Bumper: Frage
+ - Wayland-Screenshot-Contest-Auswertung
+   Preis für den Wayland-Screenshot-Contest erhöht: OpenSuse-CD und Gentoo-Button, Poster
+   
+ - Zuschauerfragen:
+   NEU: siehe "zuschauerfragen"
+
+
+++ ABSPANN
+(Sound vom Anfang)
+ - mit Welcher Software wurde alles erstellt
+ - Lizenz CC-BY-SA, hilfswiese CC-BY
+ - Werbung für Linuxworks! mit URL
+ - Artwork-Credits
+ - github-Link
+ - Musik: Regeltarif, Erik
