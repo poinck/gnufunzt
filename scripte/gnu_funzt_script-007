@@ -1,18 +1,18 @@
- ++ GNU FUNZT -- Ton=113,117,119
+ ++ GNU FUNZT -- Ton=113, 117, 119
  == Animation: Burst
 Diese Sendung wird ermöglicht durch GNU Software.
 
 
- ++ INTRO -- Ton= [ ] , Video= , Take=
-Diesmal bei "GNU funzt!": 
-Schaltet ein und findet 'raus, 
-PLUS: 
+ ++ INTRO -- Ton=242 [ ] , Video= , Take=2
+Diesmal bei "GNU funzt!": Werden wir in Zukunft Dateien nur noch mit GPG verschlüsseln oder ist der Tor-Proxy doch einfacher einzurichten?
+Schaltet ein und findet 'raus, wie man anhand von Programmnamen erkennenn, dass es sich um einen MPD-Clienten handeln muss.
+PLUS: Hedgewars 0.9.19: Das größte Minor-Release, das wir je gesehen haben.
 
 Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 
  == Bumper: Intro
 
- ++ WILLKOMMEN, INHALT -- Ton= [ ], Video= , Take=
+ ++ WILLKOMMEN, INHALT -- Ton=231 [ ], Video= , Take=3
   - Paul/André: Begrüßung
 
   - Distribution des Monats
@@ -26,38 +26,21 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 	// FIXME  aktuell mit mpd keine mp3-Wiedergabe in Arch möglich
  
   - Die Android-App des Monats
-  - VLC
-	// FIXME  VLC gibt es nur als Arm.apk
+  - MPDroid
 	// TODO  Android x86 in einer VM capturen? .. Ja, Capturen geht.
    
 
- ++ NEUIGKEITEN, NACHRICHTEN -- Ton= [ ], Video= , Take=
+ ++ NEUIGKEITEN, NACHRICHTEN -- Ton=233 (bis einschließlich OnionPi), 234 (ab KWin bis AdBlock), 235 (ab Fantec) [ ], Video= , Take=1
  == Bumper: GNUws!
-
-  x Ubuntu baut neuen Paket-Manager "App Installer"
-	https://lists.ubuntu.com/archives/ubuntu-devel/2013-May/037074.html
    
   - Debian 6 im Weltraum. Meanwhile auf der Erde: Wheezy
 	http://www.linux-magazin.de/NEWS/Keine-Science-Fiction-Iron-Man-Robonauten-Linux-Desktops-auf-der-ISS
    
   - die größte Owncloud auf der Welt findest du in Chemnitz
-	http://www.heise.de/newsticker/meldung/Riesen-Wolke-an-der-TU-Berlin-1859537.html
-   
-  x Systemd 203 in Fedora 19: viele neue Features (Lennart Poettering)
-	http://lists.freedesktop.org/archives/systemd-devel/2013-May/010907.html
-   
-  x Gnome-Bugzilla-Admins löschten Kommentar und verbannten User:
-	bei Gnome-Terminal 3.8 fehlt die Möglichkeit, den Hintergrund transparent zu setzen.
-	https://bugzilla.gnome.org/show_bug.cgi?id=698544 (Thread)
-	Bild mit gelöschtem Kommentar siehe "_tmp/130513 gnome terminal wontfix bug.png"
-	Bild vom Ban "_tmp/130513 gnome terminal 3.8 bugzilla ban.png"
+	http://www.heise.de/newsticker/meldung/Riesen-Wolke-an-der-TU-Berlin-1859537.html   
    
   - Blender 2.67: Freestyle Renderer
 	http://worldofgnome.org/blender-2-67-is-free-styling/
-   
-  - Fairphone Vorverkauf
-	http://buy-a-phone-start-a-movement.fairphone.com/fairphone.html 
-  - Mittlerweile fast 10.000 verkauft
    
   - München bleibt bei Linux
 	http://www.heise.de/newsticker/meldung/LiMux-Muenchen-bleibt-bei-Linux-1867784.html
@@ -71,23 +54,8 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
   - Pidora, Fedora für den Raspberry Pi
 	http://pidora.ca/
    
-  - Fedora lässt die Katze aus dem Sack, F19 beta:
-	https://fedoraproject.org/wiki/F19_Beta_release_announcement?stF19b
-   
-  - Samsung stellt Kamera-Firmware unter die GPL
-	http://www.heise.de/newsticker/meldung/Samsung-legt-Kamera-Firmware-offen-1869419.html
-   
-  - Mal eben das Wayland-Backend einschalten (Fedora)
-	http://worldofgnome.org/easily-try-gtk-under-wayland-in-fedora-19/
-   
   - KWin mit Weston starten
 	http://blog.martin-graesslin.com/blog/2013/05/kwin-running-in-weston/
-   
-  - neues Design für Firefox 25
-	https://wiki.mozilla.org/Firefox/Features/Theme_Refinement_and_Evolution_%28Australis%29
-   
-  - PulseAudio 4.0
-	http://worldofgnome.org/pulse-audio-4-0-louder-than-ever/
    
   - Hedgewars 0.9.19: das größte Minor-Release, das wir je gesehen haben
 	http://worldofgnome.org/hedgewars-0-9-19-bring-the-freezer/
@@ -107,19 +75,16 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 	http://www.heise.de/newsticker/meldung/EuGH-billigt-Urheberrechtsabgaben-auf-Drucker-1897836.html
  
 
- ++ DER TEST -- Ton= [ ], Video= , Take=
+ ++ DER TEST -- Ton=239 [ ], Video= , Take=4
  == Bumper: Test
   - Privatsphäre-Tools: GPG
-	gpg-key erstellen in der Kommandozeile   
+	gpg-key erstellen in der Kommandozeile
 	Kleopatra
 	Seahorse
 	Dateien aus dem Filemanager verschlüsseln: kleopatra und seahorse-nautilus
-	Nachrichten über Bitcoin-Blockchain   
-
-  - Suchmaschinen-Alternativen?
  
 
- ++ FRAGE DES MONATS, SCHLUSS -- Ton= [ ] , Video= , Take=
+ ++ FRAGE DES MONATS, SCHLUSS -- Ton=240 [ ] , Video= , Take=1
  == Bumper: Frage
   - Wayland-Screenshot-Contest-Auswertung
 	Preis für den Wayland-Screenshot-Contest erhöht: OpenSuse-CD und Gentoo-Button, Poster

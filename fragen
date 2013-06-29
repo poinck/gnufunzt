@@ -1,6 +1,10 @@
 
-++ EPISODE 7 
+ ++ EPISODE 7 
 
- - [ ] Frage von "pippoppeo"
+  - [x] Frage von "pippoppeo"
 Wie sieht es denn mit dem BeagleBone Black aus? Der soll wohl einiges schneller sein, auch das Parallella Board ist interessant. Für mich ist vorallem interessant wie das mit einem Cluster dieser Kleinen aussieht und Cluster im Allgemeinen. Kann ich dann ganz einfach einen Minecraftserver darin öffnen und für den wird auf Allen gerechnet? Würde mich über eine weitere Antwort freuen.
+
+  - [x] Frage von "pippoppeo"
+LMMS, Ardour Windows?
+Es ist nicht dringend, habt mir in der Vergangenheit ja schon öfter schnell geantwortet. Aber ich mir bei euch ein wenig zu Ardour angesehen. Doch leider hab ich kein Linux, will mir nicht, ungeschickt wie ich bin, mein eh schon lahmendes System mit einer zweiten Partition verschießen. Doch gibt es ja auch den Quellcode von Ardour kostenlos, wäre es dann nicht auch möglich den unter Windows zu kompilieren? Finde leider nichts dazu. Und wie sieht es mit dem LMMS aus? Das könnten auch die Windows nutzenden Zuschauer verwenden.
 
