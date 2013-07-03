@@ -36,20 +36,11 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
   - Debian 6 im Weltraum. Meanwhile auf der Erde: Wheezy
 	http://www.linux-magazin.de/NEWS/Keine-Science-Fiction-Iron-Man-Robonauten-Linux-Desktops-auf-der-ISS
    
-  - die größte Owncloud auf der Welt findest du in Chemnitz
-	http://www.heise.de/newsticker/meldung/Riesen-Wolke-an-der-TU-Berlin-1859537.html   
-   
-  - Blender 2.67: Freestyle Renderer
+  - Blender 2.67: Freestyle Renderer, 3D-Druck-Export
 	http://worldofgnome.org/blender-2-67-is-free-styling/
-   
-  - München bleibt bei Linux
-	http://www.heise.de/newsticker/meldung/LiMux-Muenchen-bleibt-bei-Linux-1867784.html
    
   - Tizen Shell, eine angepasste Gnome Shell als MeeGo-Nachfolger
 	http://www.heise.de/open/meldung/Intel-zeigt-Tizen-mit-Gnome-3-1869205.html
-   
-  - Gnome Shell auf dem Nexus 4 dank Freedreno
-	http://www.phoronix.com/scan.php?page=news_item&px=MTM4Mjg
    
   - Pidora, Fedora für den Raspberry Pi
 	http://pidora.ca/
@@ -57,10 +48,10 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
   - KWin mit Weston starten
 	http://blog.martin-graesslin.com/blog/2013/05/kwin-running-in-weston/
    
-  - Hedgewars 0.9.19: das größte Minor-Release, das wir je gesehen haben
+  - Hedgewars 0.9.19: das größte Minor-Release, das wir je gesehen haben.
 	http://worldofgnome.org/hedgewars-0-9-19-bring-the-freezer/
 
-  - Video-Ton in Ardour 3:
+  - Video-Ton in Ardour 3
 	http://worldofgnome.org/video-functionality-arrives-on-ardour-3-2/
 
   - AdBlock Plus: Was die Freiheit in der GPL alles bedeuten kann.
@@ -71,9 +62,12 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
     https://fsfe.org/news/2013/news-20130626-01.html
     http://www.linux-magazin.de/NEWS/FSFE-und-Harald-Welte-setzen-GPL-durch
 
-  - Vervielfältigung auf Druckern nun abgabepflichtig?
-	http://www.heise.de/newsticker/meldung/EuGH-billigt-Urheberrechtsabgaben-auf-Drucker-1897836.html
- 
+  - 
+	http://linux.slashdot.org/story/13/06/26/1746224/amd-overhauls-open-source-linux-driver
+
+  -
+	http://linux.slashdot.org/story/13/06/09/1236247/linus-torvalds-promises-profanity-over-linux-310-rc5
+
 
  ++ DER TEST -- Ton=239 [x], Video= , Take=4
  == Bumper: Test
