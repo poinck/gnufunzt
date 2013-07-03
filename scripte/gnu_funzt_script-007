@@ -1,9 +1,9 @@
- ++ GNU FUNZT -- Ton=113, 117, 119
+ ++ GNU FUNZT -- Ton=113 [x]
  == Animation: Burst
 Diese Sendung wird ermöglicht durch GNU Software.
 
 
- ++ INTRO -- Ton=242 [ ] , Video= , Take=2
+ ++ INTRO -- Ton=242 [x] , Video= , Take=2
 Diesmal bei "GNU funzt!": Werden wir in Zukunft Dateien nur noch mit GPG verschlüsseln oder ist der Tor-Proxy doch einfacher einzurichten?
 Schaltet ein und findet 'raus, wie man anhand von Programmnamen erkennenn, dass es sich um einen MPD-Clienten handeln muss.
 PLUS: Hedgewars 0.9.19: Das größte Minor-Release, das wir je gesehen haben.
@@ -12,14 +12,14 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 
  == Bumper: Intro
 
- ++ WILLKOMMEN, INHALT -- Ton=231 [ ], Video= , Take=3
+ ++ WILLKOMMEN, INHALT -- Ton=231 [x], Video= , Take=3
   - Paul/André: Begrüßung
 
   - Distribution des Monats
   - Trisquel GNU/Linux
 	http://trisquel.info/ 
 
- ++ GNUTIFUL APPLICATION -- Ton= [ ], Video=, Take=
+ ++ GNUTIFUL APPLICATION -- Ton=231 [x], Video=, Take=3
   - Die Applikation des Monats 
   - ncmcpp
 	Musik in der Kommandozeile; verwendet mpd als Server
@@ -30,7 +30,7 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 	// TODO  Android x86 in einer VM capturen? .. Ja, Capturen geht.
    
 
- ++ NEUIGKEITEN, NACHRICHTEN -- Ton=233 (bis einschließlich OnionPi), 234 (ab KWin bis AdBlock), 235 (ab Fantec) [ ], Video= , Take=1
+ ++ NEUIGKEITEN, NACHRICHTEN -- Ton=233 (bis einschließlich OnionPi), 234 (ab KWin bis AdBlock), 235 (ab Fantec) [x], Video= , Take=1
  == Bumper: GNUws!
    
   - Debian 6 im Weltraum. Meanwhile auf der Erde: Wheezy
@@ -75,7 +75,7 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 	http://www.heise.de/newsticker/meldung/EuGH-billigt-Urheberrechtsabgaben-auf-Drucker-1897836.html
  
 
- ++ DER TEST -- Ton=239 [ ], Video= , Take=4
+ ++ DER TEST -- Ton=239 [x], Video= , Take=4
  == Bumper: Test
   - Privatsphäre-Tools: GPG
 	gpg-key erstellen in der Kommandozeile
@@ -84,7 +84,7 @@ Und so viel mehr! Den ganzen Monat. hier bei "GNU funzt"!
 	Dateien aus dem Filemanager verschlüsseln: kleopatra und seahorse-nautilus
  
 
- ++ FRAGE DES MONATS, SCHLUSS -- Ton=240 [ ] , Video= , Take=1
+ ++ FRAGE DES MONATS, SCHLUSS -- Ton=240 [x] , Video= , Take=1
  == Bumper: Frage
   - Wayland-Screenshot-Contest-Auswertung
 	Preis für den Wayland-Screenshot-Contest erhöht: OpenSuse-CD und Gentoo-Button, Poster
