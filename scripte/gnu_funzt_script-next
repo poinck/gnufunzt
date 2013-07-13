@@ -1,33 +1,30 @@
 
 
- - Distribution des Monats
-   poettering/linux "PötteringOS"
+  - Distribution des Monats
+	poettering/linux "PötteringOS"
    
    
-++ NEUIGKEITEN, NACHRICHTEN -- Aufnahme 
-== Bumper: GNUws!
+ ++ NEUIGKEITEN, NACHRICHTEN -- Aufnahme 
+ == Bumper: GNUws!
 
- - Wettrennen der Versionen; wie lange bleiben die Releases von Gnome und dem Linux-Kernel noch synchron? 
-   Linux 3.x
-   Gnome 3.x
+  - Wettrennen der Versionen; wie lange bleiben die Releases von Gnome und dem Linux-Kernel noch synchron? 
+	Linux 3.x
+	Gnome 3.x
    
    
-++ DER TEST  
-&& Bumper: Test
- - Latex: FlyLatex
-   https://github.com/alabid/flylatex
-   
- - freie Spiele unter Linux
+ ++ DER TEST  
+ && Bumper: Test
+  - freie Spiele unter Linux
  
- - GNU net
-   https://gnunet.org/
+  - GNU net
+	https://gnunet.org/
    
- - MP3-Tagging
-   Picard
-   tagtool
+  - MP3-Tagging
+	Picard
+	tagtool
    
    
-++ FRAGE DES MONATS, SCHLUSS
-&& Bumper: Frage
- - Frage von Rouven: LLVM/Clang vs. gcc: Warum wird sich vom gcc abgwendet?
-   // TODO:  oder den GNU-Compiler mal als Applikation des Monats aufnehmen?
+ ++ FRAGE DES MONATS, SCHLUSS
+ && Bumper: Frage
+  - Frage von Rouven: LLVM/Clang vs. gcc: Warum wird sich vom gcc abgwendet?
+	// TODO  oder den GNU-Compiler mal als Applikation des Monats aufnehmen?

@@ -12,13 +12,15 @@ Und so viel mehr! Den ganzen Monat. Hier bei GNU funzt!
 
  == Bumper: Intro
 
- ++ WILLKOMMEN, INHALT -- Ton=231 [x], Video= , Take=3
+ ++ WILLKOMMEN, INHALT -- Ton= [ ], Video= , Take=3
   - Paul/André: Begrüßung
 
   - Distribution des Monats
-  - 
+  - Ututo XS GNU/Linux: die erste als völlig frei anerkannte Distribution (Gentoo-basiert)
+    http://proyecto.ututo.net/cmsd/ 
+    // TODO  @André: Wenn möglich, VM installieren
 
- ++ GNUTIFUL APPLICATION -- Ton=231 [x], Video=, Take=3
+ ++ GNUTIFUL APPLICATION -- Ton= [ ], Video=, Take=3
   - Die Applikation des Monats 
   - 
  
@@ -26,7 +28,7 @@ Und so viel mehr! Den ganzen Monat. Hier bei GNU funzt!
   - 
    
 
- ++ NEUIGKEITEN, NACHRICHTEN -- Ton=233 (bis einschließlich OnionPi), 234 (ab KWin bis AdBlock), 235 (ab Fantec) [x], Video= , Take=1
+ ++ NEUIGKEITEN, NACHRICHTEN -- Ton= [ ], Video= , Take=1
  == Bumper: GNUws!
    
   - FFMPEG 2.0: 
@@ -38,10 +40,10 @@ Und so viel mehr! Den ganzen Monat. Hier bei GNU funzt!
   - 
  
 
- ++ FRAGE DES MONATS, SCHLUSS -- Ton=240 [x] , Video= , Take=1
+ ++ FRAGE DES MONATS, SCHLUSS -- Ton= [ ] , Video= , Take=1
  == Bumper: Frage
   - Zuschauerfragen:
-	NEU: siehe "zuschauerfragen"
+	NEU: siehe "fragen" (zurzeit keine vorhanden)
    
   - neue Frage von Paul:
 	
