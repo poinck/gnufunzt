@@ -24,7 +24,11 @@ Und so viel mehr! Den ganzen Monat. Hier bei GNU funzt!
   - Die Applikation des Monats 
   - // TODO  RSS-Reader finden
     gPodder, Liferia
-  - oder: audio_convert (Nautilus-Script)
+  - oder Audio-Converter: 
+	audio_convert (Nautilus-Script) 
+	SoundConverter
+  - Audio-Dateien taggen
+	tagtool
  
   - Die Android-App des Monats
   - Sparse RSS
