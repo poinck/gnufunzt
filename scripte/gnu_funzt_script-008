@@ -3,7 +3,7 @@
 Diese Sendung wird ermöglicht durch GNU Software.
 
 
- ++ INTRO -- Ton=242 [x] , Video= , Take=2
+ ++ INTRO -- Ton=242 [ ] , Video= , Take=2
 Diesmal bei "GNU funzt!": 
 Schaltet ein und findet 'raus, 
 PLUS: 
@@ -22,10 +22,12 @@ Und so viel mehr! Den ganzen Monat. Hier bei GNU funzt!
 
  ++ GNUTIFUL APPLICATION -- Ton= [ ], Video=, Take=3
   - Die Applikation des Monats 
-  - 
+  - // TODO  RSS-Reader finden
+    gPodder, Liferia
+  - oder: audio_convert (Nautilus-Script)
  
   - Die Android-App des Monats
-  - 
+  - Sparse RSS
    
 
  ++ NEUIGKEITEN, NACHRICHTEN -- Ton= [ ], Video= , Take=1
@@ -35,12 +37,20 @@ Und so viel mehr! Den ganzen Monat. Hier bei GNU funzt!
 	http://worldofgnome.org/ffmpeg-2-0-is-out/
 	
   - Linus Torwalds wird um Mäßigung gebeten
-    http://www.itwire.com/business-it-news/open-source/60728-female-dev-asks-torvalds-to-curb-abuse
+	http://www.itwire.com/business-it-news/open-source/60728-female-dev-asks-torvalds-to-curb-abuse
+    
+  - Sicherheitsupdate zu GnuPG
+	http://lists.gnupg.org/pipermail/gnupg-announce/2013q3/000330.html
+    
+  - RaspberryPi als Radio verwenden
+	http://www.heise.de/newsticker/meldung/Raspberry-Pi-als-FM-Senderchen-1921154.html
 
+  - Wayland 1.2 mit stabiler Server-API und Farbmanagement
+  	http://www.linux-magazin.de/NEWS/Wayland-1.2-Farbmanagement-und-stabiles-Server-API
 
- ++ DER TEST -- Ton=239 [x], Video= , Take=4
+ ++ DER TEST -- Ton=239 [ ], Video= , Take=4
  == Bumper: Test
-  - 
+  - 0 a.d.
  
 
  ++ FRAGE DES MONATS, SCHLUSS -- Ton= [ ] , Video= , Take=1
