@@ -3,7 +3,7 @@
 Diese Sendung wird ermöglicht durch GNU Software.
 
 
- ++ INTRO -- Ton=242 [ ] , Video= , Take=2
+ ++ INTRO -- Ton=242 [ ] , Video= , Take=
 Diesmal bei "GNU funzt!": 
 Schaltet ein und findet 'raus, 
 PLUS: 
@@ -12,7 +12,7 @@ Und so viel mehr! Den ganzen Monat. Hier bei GNU funzt!
 
  == Bumper: Intro
 
- ++ WILLKOMMEN, INHALT -- Ton= [ ], Video= , Take=3
+ ++ WILLKOMMEN, INHALT -- Ton= [ ], Video= , Take=
   - Paul/André: Begrüßung
 
   - Distribution des Monats
@@ -20,21 +20,24 @@ Und so viel mehr! Den ganzen Monat. Hier bei GNU funzt!
     http://proyecto.ututo.net/cmsd/ 
     // TODO  @André: Wenn möglich, VM installieren
 
- ++ GNUTIFUL APPLICATION -- Ton= [ ], Video=, Take=3
+ ++ GNUTIFUL APPLICATION -- Ton= [ ], Video=, Take=
   - Die Applikation des Monats 
   - // TODO  RSS-Reader finden
     gPodder, Liferia
   - oder Audio-Converter: 
 	audio_convert (Nautilus-Script) 
-	SoundConverter
+	SoundConverter 
+	kio-slave für Audio-CDs // TODO  @Paul: Dockingstation mit CDROM-Laufwerk mitbringen
   - Audio-Dateien taggen
 	tagtool
+	eyed3 für die Kommandozeile 
+	Musicbrainz, http://musicbrainz.org/
  
   - Die Android-App des Monats
   - Sparse RSS
    
 
- ++ NEUIGKEITEN, NACHRICHTEN -- Ton= [ ], Video= , Take=1
+ ++ NEUIGKEITEN, NACHRICHTEN -- Ton= [ ], Video= , Take=
  == Bumper: GNUws!
    
   - FFMPEG 2.0: 
@@ -49,31 +52,61 @@ Und so viel mehr! Den ganzen Monat. Hier bei GNU funzt!
   - RaspberryPi als Radio verwenden
 	http://www.heise.de/newsticker/meldung/Raspberry-Pi-als-FM-Senderchen-1921154.html
 
-  - Wayland 1.2 mit stabiler Server-API und Farbmanagement
-  	http://www.linux-magazin.de/NEWS/Wayland-1.2-Farbmanagement-und-stabiles-Server-API
-
-  - absolut freies Android Replikant (inkl. freie Treiber); FSF startet Spendenaufruf
-	http://www.heise.de/newsticker/meldung/Free-Software-Foundation-sammelt-fuer-freie-Android-Version-1924329.html
-
   - geleakter Samsung-Code 
 	http://www.wired.com/wiredenterprise/2013/07/samsung_code/
 	
   - Open Office 4.1
   	http://www.libreoffice.org/download/4-1-new-features-and-fixes/
+  	
+  - DuckDuckGo bei FF bald die Standardsuchmaschine
+  	http://www.softmetz.de/2013/08/04/duckduckgo-bei-firefox-mobile-als-standardsuchmaschine/
+  	
+  - Linux-Banking-Trojaner
+  	http://www.heise.de/open/meldung/Linux-Banking-Trojaner-in-freier-Wildbahn-gesichtet-1932533.html
+  	
+  - Wayland 1.2 mit stabiler Server-API und Farbmanagement
+  	http://www.linux-magazin.de/NEWS/Wayland-1.2-Farbmanagement-und-stabiles-Server-API
+  	
+  - GUADEC beschließt Zeitplan für Wayland-Support von Gnome. Es reicht nicht mehr ganz in der Version 3.10 wegen dem Feature-Freeze
+  	http://www.heise.de/open/meldung/GUADEC-Wayland-Support-fuer-Gnome-1929406.html
+  - stattdessen in Gnome 3.10 (Ende September) nur eine Vorschau
+  	http://www.phoronix.com/scan.php?page=news_item&px=MTQyOTA
+  	
+  -	die Alpha-Version eines Sailfish SDK Updates wechselt von X11 zu Wayland
+  	http://www.phoronix.com/scan.php?page=news_item&px=MTQyNzI
+  	
+  - freie Software. Microsoft: Das ist doch Dumping!
+  	http://fsfe.org/news/2013/news-20130729-01.de.html
+
+  - absolut freies Android Replikant (inkl. freie Treiber); FSF startet Spendenaufruf
+	http://www.heise.de/newsticker/meldung/Free-Software-Foundation-sammelt-fuer-freie-Android-Version-1924329.html  	
+
+  - führender Android-Entwickler hört auf
+  	http://www.heise.de/open/meldung/Fuehrender-Android-Entwickler-schmeisst-hin-1931924.html
+  	
+  - gNewSense wechselt von Ubuntu zu Debian
+  	http://www.phoronix.com/scan.php?page=news_item&px=MTQzMTE
+  	
+  - LastPass Premium (unfreie Software zur verschlüsselten Ablage von Passwörtern in der "Cloud") für ein Jahr von Canonical zu verschenken, wenn man in das Ubuntu Edge investiert. 
+  	http://www.indiegogo.com/projects/ubuntu-edge
+  	
+  - MPV, ein neuer Fork von mplayer und mplayer2
+  	http://www.phoronix.com/scan.php?page=news_item&px=MTQyODQ
 
 
- ++ DER TEST -- Ton=239 [ ], Video= , Take=4
+ ++ DER TEST -- Ton=239 [ ], Video= , Take=
  == Bumper: Test
-  - 0 a.d.
+  - 0 a.d. im Netzwerk spielen
  
 
- ++ FRAGE DES MONATS, SCHLUSS -- Ton= [ ] , Video= , Take=1
+ ++ FRAGE DES MONATS, SCHLUSS -- Ton= [ ] , Video= , Take=
  == Bumper: Frage
   - Zuschauerfragen:
 	NEU: siehe "fragen" (zurzeit keine vorhanden)
-   
-  - neue Frage von Paul:
 	
+  - neue Frage von uns:
+	Was tut ihr für eure Privatsphäre im Internet?
+	// erzählen, was wir so machen, bzw. machen könnten, um sicher im Internet unterwegs zu sein
 
 
  ++ ABSPANN
