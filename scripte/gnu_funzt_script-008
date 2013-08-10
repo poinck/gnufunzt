@@ -22,16 +22,14 @@ Und so viel mehr! Den ganzen Monat. Hier bei GNU funzt!
 
  ++ GNUTIFUL APPLICATION -- Ton= [ ], Video=, Take=
   - Die Applikation des Monats 
-  - // TODO  RSS-Reader finden
-    gPodder, Liferia
-  - oder Audio-Converter: 
+  - Audio-Converter: 
 	audio_convert (Nautilus-Script) 
 	SoundConverter 
 	kio-slave für Audio-CDs // TODO  @Paul: Dockingstation mit CDROM-Laufwerk mitbringen
-  - Audio-Dateien taggen
+  - Audio-Dateien taggen:
 	tagtool
 	eyed3 für die Kommandozeile 
-	Musicbrainz, http://musicbrainz.org/
+	picard, Musicbrainz, http://musicbrainz.org/
  
   - Die Android-App des Monats
   - Sparse RSS
