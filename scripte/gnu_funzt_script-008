@@ -3,47 +3,42 @@
 Diese Sendung wird ermöglicht durch GNU Software.
 
 
- ++ INTRO -- Ton=242 [ ] , Video= , Take=
-Diesmal bei "GNU funzt!": 
-Schaltet ein und findet 'raus, 
-PLUS: 
+ ++ INTRO -- Ton=245_1 [ ] , Video= , Take=4
+Diesmal bei "GNU funzt!": Werden wir Wayland zuerst auf dem Desktop nutzen können oder wird uns zunächst Rebecca Black OS auf dem Telefon begegnen?
+Schaltet ein und findet 'raus, wer von wem in 0 a.d. zur Schnecke gemacht wird.
+PLUS: Musik konvertieren mit SoundConverter und taggen mit eyeD3
 
 Und so viel mehr! Den ganzen Monat. Hier bei GNU funzt!
 
  == Bumper: Intro
 
- ++ WILLKOMMEN, INHALT -- Ton= [ ], Video= , Take=
+ ++ WILLKOMMEN, INHALT -- Ton=237_1 [ ], Video= , Take=2
   - Paul/André: Begrüßung
 
   - Distribution des Monats
   - Ututo XS GNU/Linux: die erste als völlig frei anerkannte Distribution (Gentoo-basiert)
     http://proyecto.ututo.net/cmsd/ 
-    // TODO  @André: Wenn möglich, VM installieren
+    // TODO  @André: Wenn möglich, VM installieren .. ERLEDIGT
 
- ++ GNUTIFUL APPLICATION -- Ton= [ ], Video=, Take=
+ ++ GNUTIFUL APPLICATION
   - Die Applikation des Monats 
   - Audio-Converter: 
-	audio_convert (Nautilus-Script) 
+	kio-slave für Audio-CDs // TODO  @Paul: Dockingstation mit CDROM-Laufwerk mitbringen .. ERLEDIGT
 	SoundConverter 
-	kio-slave für Audio-CDs // TODO  @Paul: Dockingstation mit CDROM-Laufwerk mitbringen
   - Audio-Dateien taggen:
 	tagtool
 	eyed3 für die Kommandozeile 
-	picard, Musicbrainz, http://musicbrainz.org/
  
   - Die Android-App des Monats
   - Sparse RSS
 	// TODO  herunterladen .. ERLEDIGT
    
 
- ++ NEUIGKEITEN, NACHRICHTEN -- Ton= [ ], Video= , Take=
+ ++ NEUIGKEITEN, NACHRICHTEN -- Ton=238_1 [ ], Video= , Take=1
  == Bumper: GNUws!
    
   - FFMPEG 2.0: 
 	http://worldofgnome.org/ffmpeg-2-0-is-out/
-	
-  - Linus Torwalds wird um Mäßigung gebeten
-	http://www.itwire.com/business-it-news/open-source/60728-female-dev-asks-torvalds-to-curb-abuse
     
   - Sicherheitsupdate zu GnuPG
 	http://lists.gnupg.org/pipermail/gnupg-announce/2013q3/000330.html
@@ -53,9 +48,6 @@ Und so viel mehr! Den ganzen Monat. Hier bei GNU funzt!
 
   - geleakter Samsung-Code 
 	http://www.wired.com/wiredenterprise/2013/07/samsung_code/
-	
-  - Open Office 4.1
-  	http://www.libreoffice.org/download/4-1-new-features-and-fixes/
   	
   - DuckDuckGo bei FF bald die Standardsuchmaschine
   	http://www.softmetz.de/2013/08/04/duckduckgo-bei-firefox-mobile-als-standardsuchmaschine/
@@ -67,38 +59,31 @@ Und so viel mehr! Den ganzen Monat. Hier bei GNU funzt!
   	http://www.linux-magazin.de/NEWS/Wayland-1.2-Farbmanagement-und-stabiles-Server-API
   	
   - GUADEC beschließt Zeitplan für Wayland-Support von Gnome. Es reicht nicht mehr ganz in der Version 3.10 wegen dem Feature-Freeze
-  	http://www.heise.de/open/meldung/GUADEC-Wayland-Support-fuer-Gnome-1929406.html
   - stattdessen in Gnome 3.10 (Ende September) nur eine Vorschau
   	http://www.phoronix.com/scan.php?page=news_item&px=MTQyOTA
   	
-  -	die Alpha-Version eines Sailfish SDK Updates wechselt von X11 zu Wayland
+  -	Sailfish SDK Updates wechselt von X11 zu Wayland
   	http://www.phoronix.com/scan.php?page=news_item&px=MTQyNzI
   	
   - freie Software. Microsoft: Das ist doch Dumping!
   	http://fsfe.org/news/2013/news-20130729-01.de.html
 
   - absolut freies Android Replikant (inkl. freie Treiber); FSF startet Spendenaufruf
-	http://www.heise.de/newsticker/meldung/Free-Software-Foundation-sammelt-fuer-freie-Android-Version-1924329.html  	
+	http://www.heise.de/newsticker/meldung/Free-Software-Foundation-sammelt-fuer-freie-Android-Version-1924329.html
 
   - führender Android-Entwickler hört auf
   	http://www.heise.de/open/meldung/Fuehrender-Android-Entwickler-schmeisst-hin-1931924.html
   	
-  - gNewSense wechselt von Ubuntu zu Debian
-  	http://www.phoronix.com/scan.php?page=news_item&px=MTQzMTE
-  	
   - LastPass Premium (unfreie Software zur verschlüsselten Ablage von Passwörtern in der "Cloud") für ein Jahr von Canonical zu verschenken, wenn man in das Ubuntu Edge investiert. 
   	http://www.indiegogo.com/projects/ubuntu-edge
-  	
-  - MPV, ein neuer Fork von mplayer und mplayer2
-  	http://www.phoronix.com/scan.php?page=news_item&px=MTQyODQ
 
 
- ++ DER TEST -- Ton=239 [ ], Video= , Take=
+ ++ DER TEST -- Ton=239_1 [ ], Video= , Take=1
  == Bumper: Test
   - 0 a.d. im Netzwerk spielen
  
 
- ++ FRAGE DES MONATS, SCHLUSS -- Ton= [ ] , Video= , Take=
+ ++ FRAGE DES MONATS, SCHLUSS -- Ton=241_1 [ ] , Video= , Take=2
  == Bumper: Frage
   - Zuschauerfragen:
 	NEU: siehe "fragen" (zurzeit keine vorhanden)
