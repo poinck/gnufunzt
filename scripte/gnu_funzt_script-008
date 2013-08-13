@@ -3,7 +3,7 @@
 Diese Sendung wird ermöglicht durch GNU Software.
 
 
- ++ INTRO -- Ton=245_1 [ ] , Video= , Take=4
+ ++ INTRO -- Ton=245_1 [x] , Video=36 , Take=4
 Diesmal bei "GNU funzt!": Werden wir Wayland zuerst auf dem Desktop nutzen können oder wird uns zunächst Rebecca Black OS auf dem Telefon begegnen?
 Schaltet ein und findet 'raus, wer von wem in 0 a.d. zur Schnecke gemacht wird.
 PLUS: Musik konvertieren mit SoundConverter und taggen mit eyeD3
@@ -12,7 +12,7 @@ Und so viel mehr! Den ganzen Monat. Hier bei GNU funzt!
 
  == Bumper: Intro
 
- ++ WILLKOMMEN, INHALT -- Ton=237_1 [ ], Video= , Take=2
+ ++ WILLKOMMEN, INHALT -- Ton=237_1 [x], Video=25 , Take=2
   - Paul/André: Begrüßung
 
   - Distribution des Monats
@@ -34,7 +34,7 @@ Und so viel mehr! Den ganzen Monat. Hier bei GNU funzt!
 	// TODO  herunterladen .. ERLEDIGT
    
 
- ++ NEUIGKEITEN, NACHRICHTEN -- Ton=238_1 [ ], Video= , Take=1
+ ++ NEUIGKEITEN, NACHRICHTEN -- Ton=238_1 [x], Video=27, 28 , Take=1
  == Bumper: GNUws!
    
   - FFMPEG 2.0: 
@@ -78,12 +78,12 @@ Und so viel mehr! Den ganzen Monat. Hier bei GNU funzt!
   	http://www.indiegogo.com/projects/ubuntu-edge
 
 
- ++ DER TEST -- Ton=239_1 [ ], Video= , Take=1
+ ++ DER TEST -- Ton=239_1 [x], Video=29, 30 , Take=1
  == Bumper: Test
   - 0 a.d. im Netzwerk spielen
  
 
- ++ FRAGE DES MONATS, SCHLUSS -- Ton=241_1 [ ] , Video= , Take=2
+ ++ FRAGE DES MONATS, SCHLUSS -- Ton=241_1 [x] , Video=32 , Take=2
  == Bumper: Frage
   - Zuschauerfragen:
 	NEU: siehe "fragen" (zurzeit keine vorhanden)

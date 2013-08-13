@@ -1,7 +1,10 @@
+ ++ NEXT
 
 
+ ++ WILLKOMMEN, INHALT
   - Distribution des Monats
 	poettering/linux "PötteringOS"
+	elementary OS
    
    
  ++ NEUIGKEITEN, NACHRICHTEN -- Aufnahme 
@@ -15,13 +18,7 @@
  ++ DER TEST  
  && Bumper: Test
   - freie Spiele unter Linux
- 
-  - GNU net
-	https://gnunet.org/
-   
-  - MP3-Tagging
-	Picard
-	tagtool
+  -	freie Router-Software? 
    
    
  ++ FRAGE DES MONATS, SCHLUSS
