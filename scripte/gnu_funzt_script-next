@@ -4,7 +4,7 @@
  ++ WILLKOMMEN, INHALT
   - Distribution des Monats
 	poettering/linux "PötteringOS"
-	elementary OS
+	elementary OS (basiert auf Ubuntu, ansonsten aber in Orndung) ^^
    
    
  ++ NEUIGKEITEN, NACHRICHTEN -- Aufnahme 
@@ -13,15 +13,15 @@
   - Wettrennen der Versionen; wie lange bleiben die Releases von Gnome und dem Linux-Kernel noch synchron? 
 	Linux 3.x
 	Gnome 3.x
+	(vielleicht doch zu lame)
    
    
  ++ DER TEST  
  && Bumper: Test
-  - freie Spiele unter Linux
   -	freie Router-Software? 
    
    
  ++ FRAGE DES MONATS, SCHLUSS
  && Bumper: Frage
   - Frage von Rouven: LLVM/Clang vs. gcc: Warum wird sich vom gcc abgwendet?
-	// TODO  oder den GNU-Compiler mal als Applikation des Monats aufnehmen?
+	(oder den GNU-Compiler mal als Applikation des Monats aufnehmen?)
