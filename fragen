@@ -47,6 +47,19 @@ Viel zu wenig:
   * ich werde dem Thema Prism erhöhte Aufmerksamkeit bei der kommenden
     Wahl schenken
     
+
+  - von Julian:
+
+mit fällt gerade ein, ich kenne eure Namen nach 8 Folgen gar nicht... :)
+
+[...]
+
+BTW cooler Podcast. :)
+Werd mir unter Gentoo auf jedenfall auch mal Waylend zu Gemüte führen,
+weils wirklich interessant klingt.
+Hab mir auch mal RetroShare geholt, ihr habt erwähnt ihr sucht dafür noch
+leute, soll/muss ich euch da einfach mein GPG von RetroShare schicken?
+
     
   - von Markus
   
@@ -81,35 +94,5 @@ read i || kill -1 $$
 Vielleicht habe ich schlecht aufgepasst, aber ich habe nie die Beantwortung 
 der ersten(?) gnu funzt Frage mitbekommen: Warum sind in xpdf die Zeichensätze 
 so durcheinander gekommen?
-
-
-  - von Julian:
-
-mit fällt gerade ein, ich kenne eure Namen nach 8 Folgen gar nicht... :)
-
-Ich weis nicht ob deine Frage schon beantwortet wurde bezüglich dem jScript.
-
-Ich hab aber mal Spaßeshalber kurz/schnell auf
-http://de.selfhtml.org/javascript/objekte/event.htm nachgesehen und mir da
-ein Script rauskopiert und etwas modifiziert. (Ich bin kein jScript
-Programmierer, das lässt sich daher mit Sicherheit besser machen, mit einem
-Array und einer besser ein-/auslese Routine, aber ist ggf. ein Anfang)
-
-Ich hab einfach eine main() Function mit dem Dokument gestartet, in welcher
-ich "globale" Variablen bereitstelle um mehrere Tastendrücke zu notieren.
-Am ende der document.onkeydown Funktion lässt sich dann noch abfragen ob
-bestimmte Tasten, in bestimmter Reihenfolge, gedrückt (CTRL+Y hab ich jetzt
-z.B verwendet) sind und andere Funktionen aufrufen. Hat bei mir unter
-Windows (Chrome) und Gentoo (Epiphany) ganz gut funktioniert.
-Ich hab nur Probleme wenn ich z.B. STRG+D oder F drücke, weil da die
-Browser Funktionen dazwischen funken, dann werden die Werte nicht
-zurückgesetzt... (Die demo befindet sich im Anhang, bei Fragen, einfach
-fragen)
-
-BTW cooler Podcast. :)
-Werd mir unter Gentoo auf jedenfall auch mal Waylend zu Gemüte führen,
-weils wirklich interessant klingt.
-Hab mir auch mal RetroShare geholt, ihr habt erwähnt ihr sucht dafür noch
-leute, soll/muss ich euch da einfach mein GPG von RetroShare schicken?
 
 
