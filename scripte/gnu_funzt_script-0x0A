@@ -41,6 +41,12 @@ Und so viel mehr! Den ganzen Monat. Hier bei GNU funzt!
     
   - Wayland vs. Mir: Intel ohne Mir-Support
     http://www.heise.de/newsticker/meldung/Intel-gegen-Canonicals-neues-Grafiksystem-Mir-1952049.html
+    
+  - Bildschirmaufzeichnungen mit Wayland Hardware-beschleunigt
+    http://lists.freedesktop.org/archives/wayland-devel/2013-August/010708.html
+    
+  - Chromium funktioniert jetzt mit einem Wayland-Compositor
+    http://vignatti.com/2013/09/18/welcome-to-chromiums-ozone-wayland/
 
 
  ++ DER TEST -- Ton= [ ], Video= , Take=
