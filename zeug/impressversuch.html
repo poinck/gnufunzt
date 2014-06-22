@@ -1,0 +1,59 @@
+<html>
+<head>
+<style type="text/css">
+.step {
+	left: -15px;
+	top: 150px;
+	width: 1366px;
+	text-align: left;
+
+	background-color: #d5e7f9;
+	
+	opacity: 0.0;
+    transition: opacity 0.5s;
+}
+
+.step.active {
+	opacity: 1.0;
+	transition:         opacity 0.5s;
+}
+</style>
+</head>
+
+<body style="background-color: #efefef;">
+
+<div id="impress">
+
+	<div id="start" class="step" data-x="1500" data-y="-768">
+        <q>Startseite <b>versuchen</b></q>
+		<!-- q ist ja mal voll cool -->
+    </div>
+
+	<div id="start" class="step hintergrund" data-x="1500" data-y="-768">
+        <q>Startseite <b>versuchen</b></q>
+		<!-- q ist ja mal voll cool -->
+    </div>
+
+	<div id="undlos" class="step" data-x="0" data-y="-668">
+        <p>Und <b>los!</b> ...</p>
+		
+    </div>
+	
+	<div id="weiter" class="step" data-x="-1500" data-y="-568">
+        <p><b>Weiter</b> machen.</p>
+		
+    </div>
+	
+
+</div>
+
+<div id="logo" style="position: fixed; z-index: 99; bottom: 35px; left: 65px;">
+	<p style="font-size: 16px;">LOGO</p>
+</div>
+
+<script src="../gits/impressjs/js/impress.js"></script>
+<script>impress().init();</script>
+
+</body>
+
+</html>
