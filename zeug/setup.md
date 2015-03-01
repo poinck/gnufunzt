@@ -8,6 +8,9 @@
 **Soundkarte**
 - Miditech Audiolink III (USB)
 
+**Aufnahme-Software**
+- Audactiy
+
 
 ## Video-Setup
 
