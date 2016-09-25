@@ -2,69 +2,94 @@
 
 ### Record von Cynergy TV-Karte:
 
+```.sh
 ffmpeg -f video4linux2 -channel 1 -i /dev/video0 -f pulse -i default /tmp/pulse.wav test1716.mkv
+```
 
 **nachträgliches Deinterlace:**
+
+```.sh
 ffmpeg -i test1716.mkv -vf yadif -c:v mjpeg -q 0 -sn -f matroska  test1716_deinterlaced.mkv
 	# -r 24 -vsync 1
+```
 
 **zum Überprüfen der Channeleinstellung**
-ffplay -f video4linux2 -i /dev/video0 -channel 1
 
+```.sh
+ffplay -f video4linux2 -i /dev/video0 -channel 1
+```
 
 ### Rohdaten:
 
 MTS zu MJPEG MKV:
+
+```.sh
 for f in *.MTS; do ffmpeg -i "$f" -filter:v yadif -c:a copy -c:v mjpeg -q 0 -sn -f matroska -r 24 -vsync 1 "$f.mkv"; done
+```
 
 MTS zu WAV:
+```.sh
 for f in *.mts; do ffmpeg -i "$f" -c:a pcm_f32le "$f.wav"; done
-
+```
 Recordmydesktop OGV zu MJPEG MKV:
+```.sh
 for f in *.ogv; do ffmpeg -i $f -c:a copy -c:v mjpeg -q 0 -sn -f matroska -r 24 -vsync 1 -y $f.mkv; done
-
+```
 GNOME3 WEBM zu MJPEG MKV:
+```.sh
 for f in *.webm; do ffmpeg -i "$f" -c:a copy -c:v mjpeg -q 0 -sn -f matroska -r 24 -vsync 1 -y "$f.mkv"; done
-
+```
 
 ### Blender (mehrfach rendern):
+```.sh
 blender -b e0xb\ sur.blend -a -o //_frames
-
+```
 
 ### High quality encoding (Youtube+Archiv):
 
 Blender JPG zu x264 MKV:
+
+```.sh
 x264 -v --crf 20 --fps 24 -o ep.000.mkv outframes/%04d.jpg
 ffmpeg -r 24 -f image2 -start_number 325 -i _frames/%04d.jpg -r 24 -codec:v libx264 -q:v 20 "interview _final 140726.mkv"
 ffmpeg -r 24 -f image2 -start_number 325 -i _frames/%04d.jpg -r 24 -codec:v libx264 -preset slow -crf 18 "interview _final 140726.mkv"
+```
 
 Blender WAV zu THEORA OGG:
+```.sh
 oggenc -q8 sound.wav
-
+```
 THEORA OGG + x264 MKV zu x264 MKV + SOUND:
+```.sh
 mkvmerge -o gnufunzt_episode_0.mkv ep.000.mkv sound.ogg
-
+```
 
 ### Web:
 
 MKV zu WEB MP4:
+```.sh
 ffmpeg -i gnufunzt_episode_0.mkv -strict experimental -s hd480 gnufunzt_episode_0.mp4
-
+```
 MKV zu WEB WEBM:
+```.sh
 ffmpeg -i gnufunzt_episode_0.mkv -vcodec libvpx -f webm -qmin 5 -qmax 25 -s hd480 -q:a 6 gnufunzt_episode_0.webm
-
+```
 
 ### Torrent:
 
 MKV zu TORRENT MP4:
+```.sh
 ffmpeg -i gnufunzt_episode_0.mkv -strict experimental gnufunzt_episode_0_hd.mp4
-
+```
 MKV zu TORRENT WEBM:
+```.sh
 ffmpeg -i gnufunzt_episode_0.mkv -vcodec libvpx -f webm -qmin 5 -qmax 25 -q:a 6 gnufunzt_episode_0_hd.webm
-
+```
 TORRENT:
+```.sh
 mktorrent -v -a http://tracker.gnufunzt.de/announce gnufunzt_episode_0_hd.mp4
 mktorrent -v -a http://tracker.gnufunzt.de/announce gnufunzt_episode_0_hd.webm
+```
 
 **alle Formate zusammen encoden**
 ```
